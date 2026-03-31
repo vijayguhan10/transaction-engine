@@ -46,3 +46,67 @@ WARNING: Unmatched cancel notification for request id 58
 2026.03.30 10:50:26 INFO  Started: Metals version 1.6.6 in folders '/home/v-guhan-techy/projects/trnasaction_engine' for client Visual Studio Code 1.110.1.
 2026.03.30 10:50:26 INFO  Memory monitor started
 2026.03.30 10:50:30 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.31 18:56:09 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.31 18:56:10 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.31 18:56:10 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sc. Using presentation compiler with project's scala-library version: 3.3.7
+Mar 31, 2026 6:56:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+Mar 31, 2026 6:56:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+2026.03.31 18:56:10 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.31 18:56:10 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.31 18:56:10 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sc. Using presentation compiler with project's scala-library version: 3.3.7
+Mar 31, 2026 6:56:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+2026.03.31 18:56:11 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.31 18:56:12 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/build.sc
+2026.03.31 18:56:12 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.31 18:56:12 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.31 18:56:12 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.31 18:56:29 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.31 18:56:29 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sc. Using presentation compiler with project's scala-library version: 3.3.7
+Mar 31, 2026 6:56:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2194)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:517)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at scala.meta.internal.tokenizers.LegacyScanner.initialize(LegacyScanner.scala:163)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:21)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$1.tokenize$1(ScalametaTokenizer.scala:331)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$1.$anonfun$apply$1(ScalametaTokenizer.scala:333)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$1.apply(ScalametaTokenizer.scala:333)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionStringDocMeta.safeTokenize(ScalametaCommonEnrichments.scala:266)
+	at scala.meta.internal.metals.codeactions.MillifyScalaCliDependencyCodeAction.$anonfun$contribute$3(MillifyScalaCliDependencyCodeAction.scala:41)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.MillifyScalaCliDependencyCodeAction.$anonfun$contribute$2(MillifyScalaCliDependencyCodeAction.scala:37)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.MillifyScalaCliDependencyCodeAction.$anonfun$contribute$1(MillifyScalaCliDependencyCodeAction.scala:36)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:691)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:500)
+	... 3 more
+
+2026.03.31 18:56:30 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.31 18:56:30 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/build.sc
+2026.03.31 18:56:30 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.31 18:56:30 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.31 18:56:30 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.31 18:56:32 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.31 18:56:32 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.31 18:56:32 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.31 18:56:33 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/build.sc
+2026.03.31 18:56:32 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.31 18:56:33 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.31 18:56:32 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sc. Using presentation compiler with project's scala-library version: 3.3.7

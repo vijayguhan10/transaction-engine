@@ -9,3 +9,4 @@ object samplescala extends RootModule with PlayModule {
 
   object test extends PlayTests
 }
+## To run the application, use the command:
