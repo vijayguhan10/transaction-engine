@@ -413,3 +413,13 @@ org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequ
 2026.04.13 13:09:43 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/services/UserService.scala. Using presentation compiler with project's scala-library version: 3.3.7
 2026.04.13 13:09:43 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/app/services/UserService.scala
 2026.04.13 13:09:43 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/services/UserService.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.13 13:09:59 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/app/controllers/UserController.scala
+2026.04.13 13:09:59 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/controllers/UserController.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.13 13:10:01 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/controllers/UserController.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.13 13:10:01 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/app/controllers/UserController.scala
+2026.04.13 13:10:01 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/controllers/UserController.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.13 13:10:11 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/app/modules/RepositoryModule.scala
+2026.04.13 13:10:11 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/modules/RepositoryModule.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.13 13:10:11 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/modules/RepositoryModule.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.13 13:10:11 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/app/modules/RepositoryModule.scala
+2026.04.13 13:10:11 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/modules/RepositoryModule.scala. Using presentation compiler with project's scala-library version: 3.3.7
