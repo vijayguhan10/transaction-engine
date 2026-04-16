@@ -10,3 +10,7 @@ final case class User(
 object User{
     implicit val format:OFormat[User]=Json.format[User]
 }
+
+
+
+
