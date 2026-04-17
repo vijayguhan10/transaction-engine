@@ -3018,3 +3018,25 @@ WARNING: Unmatched cancel notification for request id 25
 2026.04.17 13:05:24 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/build.sbt
 2026.04.17 13:05:24 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
 2026.04.17 13:05:24 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.17 13:08:27 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.17 13:08:28 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/build.sbt
+2026.04.17 13:08:28 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.17 13:08:56 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.17 13:08:56 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/build.sbt
+2026.04.17 13:08:56 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+Apr 17, 2026 1:08:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 28
+2026.04.17 13:08:56 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.17 13:08:56 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.17 13:08:56 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.17 13:08:56 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.17 13:08:58 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.17 13:08:58 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.17 13:09:02 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.17 13:09:02 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.17 13:09:03 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.17 13:09:22 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.17 13:09:26 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.17 13:09:26 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.17 13:09:31 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.17 13:09:31 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
