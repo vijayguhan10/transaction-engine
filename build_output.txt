@@ -1,0 +1,1547 @@
+[info] welcome to sbt 1.12.8 (Ubuntu Java 21.0.10)
+[info] loading settings for project trnasaction_engine-build from plugins.sbt...
+[info] loading project definition from /home/v-guhan-techy/projects/trnasaction_engine/project
+[info] loading settings for project root from build.sbt...
+[info]   __              __
+[info]   \ \     ____   / /____ _ __  __
+[info]    \ \   / __ \ / // __ `// / / /
+[info]    / /  / /_/ // // /_/ // /_/ /
+[info]   /_/  / .___//_/ \__,_/ \__, /
+[info]       /_/               /____/
+[info] 
+[info] Version 3.0.10 running Java 21.0.10
+[info] 
+[info] Play is run entirely by the community. Please consider contributing and/or donating:
+[info] https://www.playframework.com/sponsors
+[info] 
+[info] 2.13.12
+[info] com.example:sample-scala_2.13:1.0-SNAPSHOT [S]
+[info]   +-org.flywaydb:flyway-core:9.22.3
+[info]   | +-com.fasterxml.jackson.dataformat:jackson-dataformat-toml:2.15.2
+[info]   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | |   
+[info]   | +-com.google.code.gson:gson:2.10.1
+[info]   | 
+[info]   +-org.playframework.twirl:twirl-api_2.13:2.0.9 [S]
+[info]   | +-org.scala-lang.modules:scala-xml_2.13:2.2.0 [S]
+[info]   | 
+[info]   +-org.playframework:play-filters-helpers_2.13:3.0.10 [S]
+[info]   | +-org.playframework:play_2.13:3.0.10 [S]
+[info]   |   +-at.yawk.lz4:lz4-java:1.10.2
+[info]   |   +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by: 2.1..
+[info]   |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15.2)
+[info]   |   +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | 
+[info]   |   +-com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.14.3
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   |   
+[info]   |   +-com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.14.3
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   |   
+[info]   |   +-com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.14.3
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by: 2..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   |   
+[info]   |   +-com.fasterxml.jackson.module:jackson-module-parameter-names:2.14.3
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   |   
+[info]   |   +-com.fasterxml.jackson.module:jackson-module-scala_2.13:2.14.3 [S]
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by: 2..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | 
+[info]   |   | +-com.thoughtworks.paranamer:paranamer:2.8
+[info]   |   | 
+[info]   |   +-com.google.guava:guava:32.1.3-jre
+[info]   |   | +-com.google.code.findbugs:jsr305:3.0.2
+[info]   |   | +-com.google.errorprone:error_prone_annotations:2.21.1
+[info]   |   | +-com.google.guava:failureaccess:1.0.1
+[info]   |   | +-com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-wit..
+[info]   |   | +-com.google.j2objc:j2objc-annotations:2.8
+[info]   |   | +-org.checkerframework:checker-qual:3.37.0 (evicted by: 3.41.0)
+[info]   |   | +-org.checkerframework:checker-qual:3.41.0
+[info]   |   | 
+[info]   |   +-com.typesafe:ssl-config-core_2.13:0.6.1 [S]
+[info]   |   | +-com.typesafe:config:1.4.2 (evicted by: 1.4.5)
+[info]   |   | +-com.typesafe:config:1.4.5
+[info]   |   | 
+[info]   |   +-io.jsonwebtoken:jjwt-api:0.11.5
+[info]   |   +-io.jsonwebtoken:jjwt-impl:0.11.5
+[info]   |   | +-io.jsonwebtoken:jjwt-api:0.11.5
+[info]   |   | 
+[info]   |   +-io.jsonwebtoken:jjwt-jackson:0.11.5
+[info]   |   | +-io.jsonwebtoken:jjwt-api:0.11.5
+[info]   |   | 
+[info]   |   +-javax.inject:javax.inject:1
+[info]   |   +-org.apache.pekko:pekko-actor-typed_2.13:1.0.3 [S]
+[info]   |   | +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   |   | | +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   |   | | +-com.typesafe:config:1.4.5
+[info]   |   | | 
+[info]   |   | +-org.apache.pekko:pekko-slf4j_2.13:1.0.3 [S]
+[info]   |   | | +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   |   | | | +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   |   | | | +-com.typesafe:config:1.4.5
+[info]   |   | | | 
+[info]   |   | | +-org.slf4j:slf4j-api:1.7.36 (evicted by: 2.0.17)
+[info]   |   | | +-org.slf4j:slf4j-api:2.0.17
+[info]   |   | | 
+[info]   |   | +-org.slf4j:slf4j-api:1.7.36 (evicted by: 2.0.17)
+[info]   |   | +-org.slf4j:slf4j-api:2.0.17
+[info]   |   | 
+[info]   |   +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   |   | +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   |   | +-com.typesafe:config:1.4.5
+[info]   |   | 
+[info]   |   +-org.apache.pekko:pekko-serialization-jackson_2.13:1.0.3 [S]
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by: 2..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | 
+[info]   |   | +-com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.14.3
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | |   
+[info]   |   | +-com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.14.3
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | |   
+[info]   |   | +-com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.14.3
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by:..
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | |   
+[info]   |   | +-com.fasterxml.jackson.module:jackson-module-parameter-names:2.14.3
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | |   
+[info]   |   | +-com.fasterxml.jackson.module:jackson-module-scala_2.13:2.14.3 [S]
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by:..
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | | 
+[info]   |   | | +-com.thoughtworks.paranamer:paranamer:2.8
+[info]   |   | | 
+[info]   |   | +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   |   |   +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   |   |   +-com.typesafe:config:1.4.5
+[info]   |   |   
+[info]   |   +-org.apache.pekko:pekko-slf4j_2.13:1.0.3 [S]
+[info]   |   | +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   |   | | +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   |   | | +-com.typesafe:config:1.4.5
+[info]   |   | | 
+[info]   |   | +-org.slf4j:slf4j-api:1.7.36 (evicted by: 2.0.17)
+[info]   |   | +-org.slf4j:slf4j-api:2.0.17
+[info]   |   | 
+[info]   |   +-org.playframework.twirl:twirl-api_2.13:2.0.9 [S]
+[info]   |   | +-org.scala-lang.modules:scala-xml_2.13:2.2.0 [S]
+[info]   |   | 
+[info]   |   +-org.playframework:play-build-link:3.0.10
+[info]   |   | +-org.playframework:play-exceptions:3.0.10
+[info]   |   | 
+[info]   |   +-org.playframework:play-configuration_2.13:3.0.10 [S]
+[info]   |   | +-com.typesafe:config:1.4.5
+[info]   |   | +-org.playframework:play-exceptions:3.0.10
+[info]   |   | +-org.slf4j:slf4j-api:2.0.17
+[info]   |   | 
+[info]   |   +-org.playframework:play-json_2.13:3.0.6 [S]
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by: 2..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | 
+[info]   |   | +-com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.14.3
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | |   
+[info]   |   | +-com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.14.3
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by:..
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | |   
+[info]   |   | +-org.playframework:play-functional_2.13:3.0.6 [S]
+[info]   |   | +-org.scala-lang:scala-reflect:2.13.16 (evicted by: 2.13.18)
+[info]   |   | +-org.scala-lang:scala-reflect:2.13.18 [S]
+[info]   |   | 
+[info]   |   +-org.playframework:play-streams_2.13:3.0.10 [S]
+[info]   |   | +-org.apache.pekko:pekko-stream_2.13:1.0.3 [S]
+[info]   |   | | +-com.typesafe:ssl-config-core_2.13:0.6.1 [S]
+[info]   |   | | | +-com.typesafe:config:1.4.2 (evicted by: 1.4.5)
+[info]   |   | | | +-com.typesafe:config:1.4.5
+[info]   |   | | | 
+[info]   |   | | +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   |   | | | +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   |   | | | +-com.typesafe:config:1.4.5
+[info]   |   | | | 
+[info]   |   | | +-org.apache.pekko:pekko-protobuf-v3_2.13:1.0.3
+[info]   |   | | +-org.reactivestreams:reactive-streams:1.0.4
+[info]   |   | | 
+[info]   |   | +-org.reactivestreams:reactive-streams:1.0.4
+[info]   |   | 
+[info]   |   +-org.scala-lang.modules:scala-parser-combinators_2.13:1.1.2 [S]
+[info]   |   +-org.slf4j:jcl-over-slf4j:2.0.17
+[info]   |   | +-org.slf4j:slf4j-api:2.0.17
+[info]   |   | 
+[info]   |   +-org.slf4j:jul-to-slf4j:2.0.17
+[info]   |   | +-org.slf4j:slf4j-api:2.0.17
+[info]   |   | 
+[info]   |   +-org.slf4j:slf4j-api:2.0.17
+[info]   |   
+[info]   +-org.playframework:play-guice_2.13:3.0.10 [S]
+[info]   | +-com.google.inject.extensions:guice-assistedinject:6.0.0
+[info]   | | +-com.google.errorprone:error_prone_annotations:2.18.0 (evicted by: 2.21..
+[info]   | | +-com.google.errorprone:error_prone_annotations:2.21.1
+[info]   | | +-com.google.inject:guice:6.0.0
+[info]   | |   +-aopalliance:aopalliance:1.0
+[info]   | |   +-com.google.guava:guava:31.0.1-jre (evicted by: 32.1.3-jre)
+[info]   | |   +-com.google.guava:guava:32.1.3-jre
+[info]   | |   | +-com.google.code.findbugs:jsr305:3.0.2
+[info]   | |   | +-com.google.errorprone:error_prone_annotations:2.21.1
+[info]   | |   | +-com.google.guava:failureaccess:1.0.1
+[info]   | |   | +-com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-w..
+[info]   | |   | +-com.google.j2objc:j2objc-annotations:2.8
+[info]   | |   | +-org.checkerframework:checker-qual:3.37.0 (evicted by: 3.41.0)
+[info]   | |   | +-org.checkerframework:checker-qual:3.41.0
+[info]   | |   | 
+[info]   | |   +-jakarta.inject:jakarta.inject-api:2.0.1
+[info]   | |   +-javax.inject:javax.inject:1
+[info]   | |   
+[info]   | +-com.google.inject:guice:6.0.0
+[info]   | | +-aopalliance:aopalliance:1.0
+[info]   | | +-com.google.guava:guava:31.0.1-jre (evicted by: 32.1.3-jre)
+[info]   | | +-com.google.guava:guava:32.1.3-jre
+[info]   | | | +-com.google.code.findbugs:jsr305:3.0.2
+[info]   | | | +-com.google.errorprone:error_prone_annotations:2.21.1
+[info]   | | | +-com.google.guava:failureaccess:1.0.1
+[info]   | | | +-com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-wit..
+[info]   | | | +-com.google.j2objc:j2objc-annotations:2.8
+[info]   | | | +-org.checkerframework:checker-qual:3.37.0 (evicted by: 3.41.0)
+[info]   | | | +-org.checkerframework:checker-qual:3.41.0
+[info]   | | | 
+[info]   | | +-jakarta.inject:jakarta.inject-api:2.0.1
+[info]   | | +-javax.inject:javax.inject:1
+[info]   | | 
+[info]   | +-org.playframework:play_2.13:3.0.10 [S]
+[info]   |   +-at.yawk.lz4:lz4-java:1.10.2
+[info]   |   +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by: 2.1..
+[info]   |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15.2)
+[info]   |   +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | 
+[info]   |   +-com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.14.3
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   |   
+[info]   |   +-com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.14.3
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   |   
+[info]   |   +-com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.14.3
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by: 2..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   |   
+[info]   |   +-com.fasterxml.jackson.module:jackson-module-parameter-names:2.14.3
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   |   
+[info]   |   +-com.fasterxml.jackson.module:jackson-module-scala_2.13:2.14.3 [S]
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by: 2..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | 
+[info]   |   | +-com.thoughtworks.paranamer:paranamer:2.8
+[info]   |   | 
+[info]   |   +-com.google.guava:guava:32.1.3-jre
+[info]   |   | +-com.google.code.findbugs:jsr305:3.0.2
+[info]   |   | +-com.google.errorprone:error_prone_annotations:2.21.1
+[info]   |   | +-com.google.guava:failureaccess:1.0.1
+[info]   |   | +-com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-wit..
+[info]   |   | +-com.google.j2objc:j2objc-annotations:2.8
+[info]   |   | +-org.checkerframework:checker-qual:3.37.0 (evicted by: 3.41.0)
+[info]   |   | +-org.checkerframework:checker-qual:3.41.0
+[info]   |   | 
+[info]   |   +-com.typesafe:ssl-config-core_2.13:0.6.1 [S]
+[info]   |   | +-com.typesafe:config:1.4.2 (evicted by: 1.4.5)
+[info]   |   | +-com.typesafe:config:1.4.5
+[info]   |   | 
+[info]   |   +-io.jsonwebtoken:jjwt-api:0.11.5
+[info]   |   +-io.jsonwebtoken:jjwt-impl:0.11.5
+[info]   |   | +-io.jsonwebtoken:jjwt-api:0.11.5
+[info]   |   | 
+[info]   |   +-io.jsonwebtoken:jjwt-jackson:0.11.5
+[info]   |   | +-io.jsonwebtoken:jjwt-api:0.11.5
+[info]   |   | 
+[info]   |   +-javax.inject:javax.inject:1
+[info]   |   +-org.apache.pekko:pekko-actor-typed_2.13:1.0.3 [S]
+[info]   |   | +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   |   | | +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   |   | | +-com.typesafe:config:1.4.5
+[info]   |   | | 
+[info]   |   | +-org.apache.pekko:pekko-slf4j_2.13:1.0.3 [S]
+[info]   |   | | +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   |   | | | +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   |   | | | +-com.typesafe:config:1.4.5
+[info]   |   | | | 
+[info]   |   | | +-org.slf4j:slf4j-api:1.7.36 (evicted by: 2.0.17)
+[info]   |   | | +-org.slf4j:slf4j-api:2.0.17
+[info]   |   | | 
+[info]   |   | +-org.slf4j:slf4j-api:1.7.36 (evicted by: 2.0.17)
+[info]   |   | +-org.slf4j:slf4j-api:2.0.17
+[info]   |   | 
+[info]   |   +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   |   | +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   |   | +-com.typesafe:config:1.4.5
+[info]   |   | 
+[info]   |   +-org.apache.pekko:pekko-serialization-jackson_2.13:1.0.3 [S]
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by: 2..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | 
+[info]   |   | +-com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.14.3
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | |   
+[info]   |   | +-com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.14.3
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | |   
+[info]   |   | +-com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.14.3
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by:..
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | |   
+[info]   |   | +-com.fasterxml.jackson.module:jackson-module-parameter-names:2.14.3
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | |   
+[info]   |   | +-com.fasterxml.jackson.module:jackson-module-scala_2.13:2.14.3 [S]
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by:..
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | | 
+[info]   |   | | +-com.thoughtworks.paranamer:paranamer:2.8
+[info]   |   | | 
+[info]   |   | +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   |   |   +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   |   |   +-com.typesafe:config:1.4.5
+[info]   |   |   
+[info]   |   +-org.apache.pekko:pekko-slf4j_2.13:1.0.3 [S]
+[info]   |   | +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   |   | | +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   |   | | +-com.typesafe:config:1.4.5
+[info]   |   | | 
+[info]   |   | +-org.slf4j:slf4j-api:1.7.36 (evicted by: 2.0.17)
+[info]   |   | +-org.slf4j:slf4j-api:2.0.17
+[info]   |   | 
+[info]   |   +-org.playframework.twirl:twirl-api_2.13:2.0.9 [S]
+[info]   |   | +-org.scala-lang.modules:scala-xml_2.13:2.2.0 [S]
+[info]   |   | 
+[info]   |   +-org.playframework:play-build-link:3.0.10
+[info]   |   | +-org.playframework:play-exceptions:3.0.10
+[info]   |   | 
+[info]   |   +-org.playframework:play-configuration_2.13:3.0.10 [S]
+[info]   |   | +-com.typesafe:config:1.4.5
+[info]   |   | +-org.playframework:play-exceptions:3.0.10
+[info]   |   | +-org.slf4j:slf4j-api:2.0.17
+[info]   |   | 
+[info]   |   +-org.playframework:play-json_2.13:3.0.6 [S]
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by: 2..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | 
+[info]   |   | +-com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.14.3
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | |   
+[info]   |   | +-com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.14.3
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by:..
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | |   
+[info]   |   | +-org.playframework:play-functional_2.13:3.0.6 [S]
+[info]   |   | +-org.scala-lang:scala-reflect:2.13.16 (evicted by: 2.13.18)
+[info]   |   | +-org.scala-lang:scala-reflect:2.13.18 [S]
+[info]   |   | 
+[info]   |   +-org.playframework:play-streams_2.13:3.0.10 [S]
+[info]   |   | +-org.apache.pekko:pekko-stream_2.13:1.0.3 [S]
+[info]   |   | | +-com.typesafe:ssl-config-core_2.13:0.6.1 [S]
+[info]   |   | | | +-com.typesafe:config:1.4.2 (evicted by: 1.4.5)
+[info]   |   | | | +-com.typesafe:config:1.4.5
+[info]   |   | | | 
+[info]   |   | | +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   |   | | | +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   |   | | | +-com.typesafe:config:1.4.5
+[info]   |   | | | 
+[info]   |   | | +-org.apache.pekko:pekko-protobuf-v3_2.13:1.0.3
+[info]   |   | | +-org.reactivestreams:reactive-streams:1.0.4
+[info]   |   | | 
+[info]   |   | +-org.reactivestreams:reactive-streams:1.0.4
+[info]   |   | 
+[info]   |   +-org.scala-lang.modules:scala-parser-combinators_2.13:1.1.2 [S]
+[info]   |   +-org.slf4j:jcl-over-slf4j:2.0.17
+[info]   |   | +-org.slf4j:slf4j-api:2.0.17
+[info]   |   | 
+[info]   |   +-org.slf4j:jul-to-slf4j:2.0.17
+[info]   |   | +-org.slf4j:slf4j-api:2.0.17
+[info]   |   | 
+[info]   |   +-org.slf4j:slf4j-api:2.0.17
+[info]   |   
+[info]   +-org.playframework:play-json_2.13:3.0.6 [S]
+[info]   | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by: 2.15.2)
+[info]   | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15.2)
+[info]   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | | 
+[info]   | +-com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.14.3
+[info]   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15.2)
+[info]   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | |   
+[info]   | +-com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.14.3
+[info]   | | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by: 2.1..
+[info]   | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15.2)
+[info]   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | |   
+[info]   | +-org.playframework:play-functional_2.13:3.0.6 [S]
+[info]   | +-org.scala-lang:scala-reflect:2.13.16 (evicted by: 2.13.18)
+[info]   | +-org.scala-lang:scala-reflect:2.13.18 [S]
+[info]   | 
+[info]   +-org.playframework:play-logback_2.13:3.0.10 [S]
+[info]   | +-ch.qos.logback:logback-classic:1.5.22
+[info]   | | +-ch.qos.logback:logback-core:1.5.22
+[info]   | | +-org.slf4j:slf4j-api:2.0.17
+[info]   | | 
+[info]   | +-org.playframework:play_2.13:3.0.10 [S]
+[info]   |   +-at.yawk.lz4:lz4-java:1.10.2
+[info]   |   +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by: 2.1..
+[info]   |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15.2)
+[info]   |   +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | 
+[info]   |   +-com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.14.3
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   |   
+[info]   |   +-com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.14.3
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   |   
+[info]   |   +-com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.14.3
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by: 2..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   |   
+[info]   |   +-com.fasterxml.jackson.module:jackson-module-parameter-names:2.14.3
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   |   
+[info]   |   +-com.fasterxml.jackson.module:jackson-module-scala_2.13:2.14.3 [S]
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by: 2..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | 
+[info]   |   | +-com.thoughtworks.paranamer:paranamer:2.8
+[info]   |   | 
+[info]   |   +-com.google.guava:guava:32.1.3-jre
+[info]   |   | +-com.google.code.findbugs:jsr305:3.0.2
+[info]   |   | +-com.google.errorprone:error_prone_annotations:2.21.1
+[info]   |   | +-com.google.guava:failureaccess:1.0.1
+[info]   |   | +-com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-wit..
+[info]   |   | +-com.google.j2objc:j2objc-annotations:2.8
+[info]   |   | +-org.checkerframework:checker-qual:3.37.0 (evicted by: 3.41.0)
+[info]   |   | +-org.checkerframework:checker-qual:3.41.0
+[info]   |   | 
+[info]   |   +-com.typesafe:ssl-config-core_2.13:0.6.1 [S]
+[info]   |   | +-com.typesafe:config:1.4.2 (evicted by: 1.4.5)
+[info]   |   | +-com.typesafe:config:1.4.5
+[info]   |   | 
+[info]   |   +-io.jsonwebtoken:jjwt-api:0.11.5
+[info]   |   +-io.jsonwebtoken:jjwt-impl:0.11.5
+[info]   |   | +-io.jsonwebtoken:jjwt-api:0.11.5
+[info]   |   | 
+[info]   |   +-io.jsonwebtoken:jjwt-jackson:0.11.5
+[info]   |   | +-io.jsonwebtoken:jjwt-api:0.11.5
+[info]   |   | 
+[info]   |   +-javax.inject:javax.inject:1
+[info]   |   +-org.apache.pekko:pekko-actor-typed_2.13:1.0.3 [S]
+[info]   |   | +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   |   | | +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   |   | | +-com.typesafe:config:1.4.5
+[info]   |   | | 
+[info]   |   | +-org.apache.pekko:pekko-slf4j_2.13:1.0.3 [S]
+[info]   |   | | +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   |   | | | +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   |   | | | +-com.typesafe:config:1.4.5
+[info]   |   | | | 
+[info]   |   | | +-org.slf4j:slf4j-api:1.7.36 (evicted by: 2.0.17)
+[info]   |   | | +-org.slf4j:slf4j-api:2.0.17
+[info]   |   | | 
+[info]   |   | +-org.slf4j:slf4j-api:1.7.36 (evicted by: 2.0.17)
+[info]   |   | +-org.slf4j:slf4j-api:2.0.17
+[info]   |   | 
+[info]   |   +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   |   | +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   |   | +-com.typesafe:config:1.4.5
+[info]   |   | 
+[info]   |   +-org.apache.pekko:pekko-serialization-jackson_2.13:1.0.3 [S]
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by: 2..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | 
+[info]   |   | +-com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.14.3
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | |   
+[info]   |   | +-com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.14.3
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | |   
+[info]   |   | +-com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.14.3
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by:..
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | |   
+[info]   |   | +-com.fasterxml.jackson.module:jackson-module-parameter-names:2.14.3
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | |   
+[info]   |   | +-com.fasterxml.jackson.module:jackson-module-scala_2.13:2.14.3 [S]
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by:..
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | | 
+[info]   |   | | +-com.thoughtworks.paranamer:paranamer:2.8
+[info]   |   | | 
+[info]   |   | +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   |   |   +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   |   |   +-com.typesafe:config:1.4.5
+[info]   |   |   
+[info]   |   +-org.apache.pekko:pekko-slf4j_2.13:1.0.3 [S]
+[info]   |   | +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   |   | | +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   |   | | +-com.typesafe:config:1.4.5
+[info]   |   | | 
+[info]   |   | +-org.slf4j:slf4j-api:1.7.36 (evicted by: 2.0.17)
+[info]   |   | +-org.slf4j:slf4j-api:2.0.17
+[info]   |   | 
+[info]   |   +-org.playframework.twirl:twirl-api_2.13:2.0.9 [S]
+[info]   |   | +-org.scala-lang.modules:scala-xml_2.13:2.2.0 [S]
+[info]   |   | 
+[info]   |   +-org.playframework:play-build-link:3.0.10
+[info]   |   | +-org.playframework:play-exceptions:3.0.10
+[info]   |   | 
+[info]   |   +-org.playframework:play-configuration_2.13:3.0.10 [S]
+[info]   |   | +-com.typesafe:config:1.4.5
+[info]   |   | +-org.playframework:play-exceptions:3.0.10
+[info]   |   | +-org.slf4j:slf4j-api:2.0.17
+[info]   |   | 
+[info]   |   +-org.playframework:play-json_2.13:3.0.6 [S]
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by: 2..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | 
+[info]   |   | +-com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.14.3
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | |   
+[info]   |   | +-com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.14.3
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by:..
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | |   
+[info]   |   | +-org.playframework:play-functional_2.13:3.0.6 [S]
+[info]   |   | +-org.scala-lang:scala-reflect:2.13.16 (evicted by: 2.13.18)
+[info]   |   | +-org.scala-lang:scala-reflect:2.13.18 [S]
+[info]   |   | 
+[info]   |   +-org.playframework:play-streams_2.13:3.0.10 [S]
+[info]   |   | +-org.apache.pekko:pekko-stream_2.13:1.0.3 [S]
+[info]   |   | | +-com.typesafe:ssl-config-core_2.13:0.6.1 [S]
+[info]   |   | | | +-com.typesafe:config:1.4.2 (evicted by: 1.4.5)
+[info]   |   | | | +-com.typesafe:config:1.4.5
+[info]   |   | | | 
+[info]   |   | | +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   |   | | | +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   |   | | | +-com.typesafe:config:1.4.5
+[info]   |   | | | 
+[info]   |   | | +-org.apache.pekko:pekko-protobuf-v3_2.13:1.0.3
+[info]   |   | | +-org.reactivestreams:reactive-streams:1.0.4
+[info]   |   | | 
+[info]   |   | +-org.reactivestreams:reactive-streams:1.0.4
+[info]   |   | 
+[info]   |   +-org.scala-lang.modules:scala-parser-combinators_2.13:1.1.2 [S]
+[info]   |   +-org.slf4j:jcl-over-slf4j:2.0.17
+[info]   |   | +-org.slf4j:slf4j-api:2.0.17
+[info]   |   | 
+[info]   |   +-org.slf4j:jul-to-slf4j:2.0.17
+[info]   |   | +-org.slf4j:slf4j-api:2.0.17
+[info]   |   | 
+[info]   |   +-org.slf4j:slf4j-api:2.0.17
+[info]   |   
+[info]   +-org.playframework:play-pekko-http-server_2.13:3.0.10 [S]
+[info]   | +-org.apache.pekko:pekko-http-core_2.13:1.0.1 [S]
+[info]   | | +-org.apache.pekko:pekko-parsing_2.13:1.0.1 [S]
+[info]   | | +-org.parboiled:parboiled_2.13:2.5.0 [S]
+[info]   | | 
+[info]   | +-org.playframework:play-server_2.13:3.0.10 [S]
+[info]   | | +-org.playframework:play_2.13:3.0.10 [S]
+[info]   | |   +-at.yawk.lz4:lz4-java:1.10.2
+[info]   | |   +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by: 2..
+[info]   | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | |   +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | |   +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   | |   +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | |   | 
+[info]   | |   +-com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.14.3
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   | |   |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | |   |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | |   |   
+[info]   | |   +-com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.14.3
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   | |   |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | |   |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | |   |   
+[info]   | |   +-com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.14.3
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by:..
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   | |   |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | |   |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | |   |   
+[info]   | |   +-com.fasterxml.jackson.module:jackson-module-parameter-names:2.14.3
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   | |   |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | |   |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | |   |   
+[info]   | |   +-com.fasterxml.jackson.module:jackson-module-scala_2.13:2.14.3 [S]
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by:..
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | |   | | 
+[info]   | |   | +-com.thoughtworks.paranamer:paranamer:2.8
+[info]   | |   | 
+[info]   | |   +-com.google.guava:guava:32.1.3-jre
+[info]   | |   | +-com.google.code.findbugs:jsr305:3.0.2
+[info]   | |   | +-com.google.errorprone:error_prone_annotations:2.21.1
+[info]   | |   | +-com.google.guava:failureaccess:1.0.1
+[info]   | |   | +-com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-w..
+[info]   | |   | +-com.google.j2objc:j2objc-annotations:2.8
+[info]   | |   | +-org.checkerframework:checker-qual:3.37.0 (evicted by: 3.41.0)
+[info]   | |   | +-org.checkerframework:checker-qual:3.41.0
+[info]   | |   | 
+[info]   | |   +-com.typesafe:ssl-config-core_2.13:0.6.1 [S]
+[info]   | |   | +-com.typesafe:config:1.4.2 (evicted by: 1.4.5)
+[info]   | |   | +-com.typesafe:config:1.4.5
+[info]   | |   | 
+[info]   | |   +-io.jsonwebtoken:jjwt-api:0.11.5
+[info]   | |   +-io.jsonwebtoken:jjwt-impl:0.11.5
+[info]   | |   | +-io.jsonwebtoken:jjwt-api:0.11.5
+[info]   | |   | 
+[info]   | |   +-io.jsonwebtoken:jjwt-jackson:0.11.5
+[info]   | |   | +-io.jsonwebtoken:jjwt-api:0.11.5
+[info]   | |   | 
+[info]   | |   +-javax.inject:javax.inject:1
+[info]   | |   +-org.apache.pekko:pekko-actor-typed_2.13:1.0.3 [S]
+[info]   | |   | +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   | |   | | +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   | |   | | +-com.typesafe:config:1.4.5
+[info]   | |   | | 
+[info]   | |   | +-org.apache.pekko:pekko-slf4j_2.13:1.0.3 [S]
+[info]   | |   | | +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   | |   | | | +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   | |   | | | +-com.typesafe:config:1.4.5
+[info]   | |   | | | 
+[info]   | |   | | +-org.slf4j:slf4j-api:1.7.36 (evicted by: 2.0.17)
+[info]   | |   | | +-org.slf4j:slf4j-api:2.0.17
+[info]   | |   | | 
+[info]   | |   | +-org.slf4j:slf4j-api:1.7.36 (evicted by: 2.0.17)
+[info]   | |   | +-org.slf4j:slf4j-api:2.0.17
+[info]   | |   | 
+[info]   | |   +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   | |   | +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   | |   | +-com.typesafe:config:1.4.5
+[info]   | |   | 
+[info]   | |   +-org.apache.pekko:pekko-serialization-jackson_2.13:1.0.3 [S]
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by:..
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | |   | | 
+[info]   | |   | +-com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.14.3
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15..
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: ..
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   | |   | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | |   | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | |   | |   
+[info]   | |   | +-com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.14.3
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15..
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: ..
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   | |   | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | |   | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | |   | |   
+[info]   | |   | +-com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.14.3
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted b..
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15..
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: ..
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   | |   | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | |   | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | |   | |   
+[info]   | |   | +-com.fasterxml.jackson.module:jackson-module-parameter-names:2.14.3
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15..
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: ..
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   | |   | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | |   | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | |   | |   
+[info]   | |   | +-com.fasterxml.jackson.module:jackson-module-scala_2.13:2.14.3 [S]
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted b..
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15..
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: ..
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   | |   | | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | |   | | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | |   | | | 
+[info]   | |   | | +-com.thoughtworks.paranamer:paranamer:2.8
+[info]   | |   | | 
+[info]   | |   | +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   | |   |   +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   | |   |   +-com.typesafe:config:1.4.5
+[info]   | |   |   
+[info]   | |   +-org.apache.pekko:pekko-slf4j_2.13:1.0.3 [S]
+[info]   | |   | +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   | |   | | +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   | |   | | +-com.typesafe:config:1.4.5
+[info]   | |   | | 
+[info]   | |   | +-org.slf4j:slf4j-api:1.7.36 (evicted by: 2.0.17)
+[info]   | |   | +-org.slf4j:slf4j-api:2.0.17
+[info]   | |   | 
+[info]   | |   +-org.playframework.twirl:twirl-api_2.13:2.0.9 [S]
+[info]   | |   | +-org.scala-lang.modules:scala-xml_2.13:2.2.0 [S]
+[info]   | |   | 
+[info]   | |   +-org.playframework:play-build-link:3.0.10
+[info]   | |   | +-org.playframework:play-exceptions:3.0.10
+[info]   | |   | 
+[info]   | |   +-org.playframework:play-configuration_2.13:3.0.10 [S]
+[info]   | |   | +-com.typesafe:config:1.4.5
+[info]   | |   | +-org.playframework:play-exceptions:3.0.10
+[info]   | |   | +-org.slf4j:slf4j-api:2.0.17
+[info]   | |   | 
+[info]   | |   +-org.playframework:play-json_2.13:3.0.6 [S]
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by:..
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   | |   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | |   | | 
+[info]   | |   | +-com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.14.3
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15..
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: ..
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   | |   | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | |   | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | |   | |   
+[info]   | |   | +-com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.14.3
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted b..
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15..
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: ..
+[info]   | |   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   | |   | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | |   | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | |   | |   
+[info]   | |   | +-org.playframework:play-functional_2.13:3.0.6 [S]
+[info]   | |   | +-org.scala-lang:scala-reflect:2.13.16 (evicted by: 2.13.18)
+[info]   | |   | +-org.scala-lang:scala-reflect:2.13.18 [S]
+[info]   | |   | 
+[info]   | |   +-org.playframework:play-streams_2.13:3.0.10 [S]
+[info]   | |   | +-org.apache.pekko:pekko-stream_2.13:1.0.3 [S]
+[info]   | |   | | +-com.typesafe:ssl-config-core_2.13:0.6.1 [S]
+[info]   | |   | | | +-com.typesafe:config:1.4.2 (evicted by: 1.4.5)
+[info]   | |   | | | +-com.typesafe:config:1.4.5
+[info]   | |   | | | 
+[info]   | |   | | +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   | |   | | | +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   | |   | | | +-com.typesafe:config:1.4.5
+[info]   | |   | | | 
+[info]   | |   | | +-org.apache.pekko:pekko-protobuf-v3_2.13:1.0.3
+[info]   | |   | | +-org.reactivestreams:reactive-streams:1.0.4
+[info]   | |   | | 
+[info]   | |   | +-org.reactivestreams:reactive-streams:1.0.4
+[info]   | |   | 
+[info]   | |   +-org.scala-lang.modules:scala-parser-combinators_2.13:1.1.2 [S]
+[info]   | |   +-org.slf4j:jcl-over-slf4j:2.0.17
+[info]   | |   | +-org.slf4j:slf4j-api:2.0.17
+[info]   | |   | 
+[info]   | |   +-org.slf4j:jul-to-slf4j:2.0.17
+[info]   | |   | +-org.slf4j:slf4j-api:2.0.17
+[info]   | |   | 
+[info]   | |   +-org.slf4j:slf4j-api:2.0.17
+[info]   | |   
+[info]   | +-org.playframework:play-streams_2.13:3.0.10 [S]
+[info]   |   +-org.apache.pekko:pekko-stream_2.13:1.0.3 [S]
+[info]   |   | +-com.typesafe:ssl-config-core_2.13:0.6.1 [S]
+[info]   |   | | +-com.typesafe:config:1.4.2 (evicted by: 1.4.5)
+[info]   |   | | +-com.typesafe:config:1.4.5
+[info]   |   | | 
+[info]   |   | +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   |   | | +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   |   | | +-com.typesafe:config:1.4.5
+[info]   |   | | 
+[info]   |   | +-org.apache.pekko:pekko-protobuf-v3_2.13:1.0.3
+[info]   |   | +-org.reactivestreams:reactive-streams:1.0.4
+[info]   |   | 
+[info]   |   +-org.reactivestreams:reactive-streams:1.0.4
+[info]   |   
+[info]   +-org.playframework:play-server_2.13:3.0.10 [S]
+[info]   | +-org.playframework:play_2.13:3.0.10 [S]
+[info]   |   +-at.yawk.lz4:lz4-java:1.10.2
+[info]   |   +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by: 2.1..
+[info]   |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15.2)
+[info]   |   +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | 
+[info]   |   +-com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.14.3
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   |   
+[info]   |   +-com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.14.3
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   |   
+[info]   |   +-com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.14.3
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by: 2..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   |   
+[info]   |   +-com.fasterxml.jackson.module:jackson-module-parameter-names:2.14.3
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   |   
+[info]   |   +-com.fasterxml.jackson.module:jackson-module-scala_2.13:2.14.3 [S]
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by: 2..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | 
+[info]   |   | +-com.thoughtworks.paranamer:paranamer:2.8
+[info]   |   | 
+[info]   |   +-com.google.guava:guava:32.1.3-jre
+[info]   |   | +-com.google.code.findbugs:jsr305:3.0.2
+[info]   |   | +-com.google.errorprone:error_prone_annotations:2.21.1
+[info]   |   | +-com.google.guava:failureaccess:1.0.1
+[info]   |   | +-com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-wit..
+[info]   |   | +-com.google.j2objc:j2objc-annotations:2.8
+[info]   |   | +-org.checkerframework:checker-qual:3.37.0 (evicted by: 3.41.0)
+[info]   |   | +-org.checkerframework:checker-qual:3.41.0
+[info]   |   | 
+[info]   |   +-com.typesafe:ssl-config-core_2.13:0.6.1 [S]
+[info]   |   | +-com.typesafe:config:1.4.2 (evicted by: 1.4.5)
+[info]   |   | +-com.typesafe:config:1.4.5
+[info]   |   | 
+[info]   |   +-io.jsonwebtoken:jjwt-api:0.11.5
+[info]   |   +-io.jsonwebtoken:jjwt-impl:0.11.5
+[info]   |   | +-io.jsonwebtoken:jjwt-api:0.11.5
+[info]   |   | 
+[info]   |   +-io.jsonwebtoken:jjwt-jackson:0.11.5
+[info]   |   | +-io.jsonwebtoken:jjwt-api:0.11.5
+[info]   |   | 
+[info]   |   +-javax.inject:javax.inject:1
+[info]   |   +-org.apache.pekko:pekko-actor-typed_2.13:1.0.3 [S]
+[info]   |   | +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   |   | | +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   |   | | +-com.typesafe:config:1.4.5
+[info]   |   | | 
+[info]   |   | +-org.apache.pekko:pekko-slf4j_2.13:1.0.3 [S]
+[info]   |   | | +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   |   | | | +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   |   | | | +-com.typesafe:config:1.4.5
+[info]   |   | | | 
+[info]   |   | | +-org.slf4j:slf4j-api:1.7.36 (evicted by: 2.0.17)
+[info]   |   | | +-org.slf4j:slf4j-api:2.0.17
+[info]   |   | | 
+[info]   |   | +-org.slf4j:slf4j-api:1.7.36 (evicted by: 2.0.17)
+[info]   |   | +-org.slf4j:slf4j-api:2.0.17
+[info]   |   | 
+[info]   |   +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   |   | +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   |   | +-com.typesafe:config:1.4.5
+[info]   |   | 
+[info]   |   +-org.apache.pekko:pekko-serialization-jackson_2.13:1.0.3 [S]
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by: 2..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | 
+[info]   |   | +-com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.14.3
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | |   
+[info]   |   | +-com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.14.3
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | |   
+[info]   |   | +-com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.14.3
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by:..
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | |   
+[info]   |   | +-com.fasterxml.jackson.module:jackson-module-parameter-names:2.14.3
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | |   
+[info]   |   | +-com.fasterxml.jackson.module:jackson-module-scala_2.13:2.14.3 [S]
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by:..
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | | 
+[info]   |   | | +-com.thoughtworks.paranamer:paranamer:2.8
+[info]   |   | | 
+[info]   |   | +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   |   |   +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   |   |   +-com.typesafe:config:1.4.5
+[info]   |   |   
+[info]   |   +-org.apache.pekko:pekko-slf4j_2.13:1.0.3 [S]
+[info]   |   | +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   |   | | +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   |   | | +-com.typesafe:config:1.4.5
+[info]   |   | | 
+[info]   |   | +-org.slf4j:slf4j-api:1.7.36 (evicted by: 2.0.17)
+[info]   |   | +-org.slf4j:slf4j-api:2.0.17
+[info]   |   | 
+[info]   |   +-org.playframework.twirl:twirl-api_2.13:2.0.9 [S]
+[info]   |   | +-org.scala-lang.modules:scala-xml_2.13:2.2.0 [S]
+[info]   |   | 
+[info]   |   +-org.playframework:play-build-link:3.0.10
+[info]   |   | +-org.playframework:play-exceptions:3.0.10
+[info]   |   | 
+[info]   |   +-org.playframework:play-configuration_2.13:3.0.10 [S]
+[info]   |   | +-com.typesafe:config:1.4.5
+[info]   |   | +-org.playframework:play-exceptions:3.0.10
+[info]   |   | +-org.slf4j:slf4j-api:2.0.17
+[info]   |   | 
+[info]   |   +-org.playframework:play-json_2.13:3.0.6 [S]
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by: 2..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   |   | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | 
+[info]   |   | +-com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.14.3
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | |   
+[info]   |   | +-com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.14.3
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by:..
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   |   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   |   | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   |   | |   
+[info]   |   | +-org.playframework:play-functional_2.13:3.0.6 [S]
+[info]   |   | +-org.scala-lang:scala-reflect:2.13.16 (evicted by: 2.13.18)
+[info]   |   | +-org.scala-lang:scala-reflect:2.13.18 [S]
+[info]   |   | 
+[info]   |   +-org.playframework:play-streams_2.13:3.0.10 [S]
+[info]   |   | +-org.apache.pekko:pekko-stream_2.13:1.0.3 [S]
+[info]   |   | | +-com.typesafe:ssl-config-core_2.13:0.6.1 [S]
+[info]   |   | | | +-com.typesafe:config:1.4.2 (evicted by: 1.4.5)
+[info]   |   | | | +-com.typesafe:config:1.4.5
+[info]   |   | | | 
+[info]   |   | | +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   |   | | | +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   |   | | | +-com.typesafe:config:1.4.5
+[info]   |   | | | 
+[info]   |   | | +-org.apache.pekko:pekko-protobuf-v3_2.13:1.0.3
+[info]   |   | | +-org.reactivestreams:reactive-streams:1.0.4
+[info]   |   | | 
+[info]   |   | +-org.reactivestreams:reactive-streams:1.0.4
+[info]   |   | 
+[info]   |   +-org.scala-lang.modules:scala-parser-combinators_2.13:1.1.2 [S]
+[info]   |   +-org.slf4j:jcl-over-slf4j:2.0.17
+[info]   |   | +-org.slf4j:slf4j-api:2.0.17
+[info]   |   | 
+[info]   |   +-org.slf4j:jul-to-slf4j:2.0.17
+[info]   |   | +-org.slf4j:slf4j-api:2.0.17
+[info]   |   | 
+[info]   |   +-org.slf4j:slf4j-api:2.0.17
+[info]   |   
+[info]   +-org.playframework:play-slick_2.13:6.2.0 [S]
+[info]   | +-com.typesafe.slick:slick-hikaricp_2.13:3.6.0 [S]
+[info]   | | +-com.typesafe.slick:slick_2.13:3.6.0 [S]
+[info]   | | | +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   | | | +-com.typesafe:config:1.4.5
+[info]   | | | +-org.reactivestreams:reactive-streams:1.0.4
+[info]   | | | +-org.slf4j:slf4j-api:2.0.17
+[info]   | | | 
+[info]   | | +-com.zaxxer:HikariCP:6.2.1
+[info]   | | 
+[info]   | +-com.typesafe.slick:slick_2.13:3.6.0 [S]
+[info]   | | +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   | | +-com.typesafe:config:1.4.5
+[info]   | | +-org.reactivestreams:reactive-streams:1.0.4
+[info]   | | +-org.slf4j:slf4j-api:2.0.17
+[info]   | | 
+[info]   | +-org.playframework:play-jdbc-api_2.13:3.0.7 [S]
+[info]   | | +-javax.inject:javax.inject:1
+[info]   | | 
+[info]   | +-org.playframework:play_2.13:3.0.10 [S]
+[info]   | | +-at.yawk.lz4:lz4-java:1.10.2
+[info]   | | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by: 2.1..
+[info]   | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15.2)
+[info]   | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   | | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | | | 
+[info]   | | +-com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.14.3
+[info]   | | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   | | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   | | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   | | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | | |   
+[info]   | | +-com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.14.3
+[info]   | | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   | | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   | | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   | | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | | |   
+[info]   | | +-com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.14.3
+[info]   | | | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by: 2..
+[info]   | | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   | | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   | | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   | | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | | |   
+[info]   | | +-com.fasterxml.jackson.module:jackson-module-parameter-names:2.14.3
+[info]   | | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   | | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   | | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   | | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | | |   
+[info]   | | +-com.fasterxml.jackson.module:jackson-module-scala_2.13:2.14.3 [S]
+[info]   | | | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by: 2..
+[info]   | | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   | | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   | | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | | | | 
+[info]   | | | +-com.thoughtworks.paranamer:paranamer:2.8
+[info]   | | | 
+[info]   | | +-com.google.guava:guava:32.1.3-jre
+[info]   | | | +-com.google.code.findbugs:jsr305:3.0.2
+[info]   | | | +-com.google.errorprone:error_prone_annotations:2.21.1
+[info]   | | | +-com.google.guava:failureaccess:1.0.1
+[info]   | | | +-com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-wit..
+[info]   | | | +-com.google.j2objc:j2objc-annotations:2.8
+[info]   | | | +-org.checkerframework:checker-qual:3.37.0 (evicted by: 3.41.0)
+[info]   | | | +-org.checkerframework:checker-qual:3.41.0
+[info]   | | | 
+[info]   | | +-com.typesafe:ssl-config-core_2.13:0.6.1 [S]
+[info]   | | | +-com.typesafe:config:1.4.2 (evicted by: 1.4.5)
+[info]   | | | +-com.typesafe:config:1.4.5
+[info]   | | | 
+[info]   | | +-io.jsonwebtoken:jjwt-api:0.11.5
+[info]   | | +-io.jsonwebtoken:jjwt-impl:0.11.5
+[info]   | | | +-io.jsonwebtoken:jjwt-api:0.11.5
+[info]   | | | 
+[info]   | | +-io.jsonwebtoken:jjwt-jackson:0.11.5
+[info]   | | | +-io.jsonwebtoken:jjwt-api:0.11.5
+[info]   | | | 
+[info]   | | +-javax.inject:javax.inject:1
+[info]   | | +-org.apache.pekko:pekko-actor-typed_2.13:1.0.3 [S]
+[info]   | | | +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   | | | | +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   | | | | +-com.typesafe:config:1.4.5
+[info]   | | | | 
+[info]   | | | +-org.apache.pekko:pekko-slf4j_2.13:1.0.3 [S]
+[info]   | | | | +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   | | | | | +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   | | | | | +-com.typesafe:config:1.4.5
+[info]   | | | | | 
+[info]   | | | | +-org.slf4j:slf4j-api:1.7.36 (evicted by: 2.0.17)
+[info]   | | | | +-org.slf4j:slf4j-api:2.0.17
+[info]   | | | | 
+[info]   | | | +-org.slf4j:slf4j-api:1.7.36 (evicted by: 2.0.17)
+[info]   | | | +-org.slf4j:slf4j-api:2.0.17
+[info]   | | | 
+[info]   | | +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   | | | +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   | | | +-com.typesafe:config:1.4.5
+[info]   | | | 
+[info]   | | +-org.apache.pekko:pekko-serialization-jackson_2.13:1.0.3 [S]
+[info]   | | | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by: 2..
+[info]   | | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   | | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   | | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | | | | 
+[info]   | | | +-com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.14.3
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   | | | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | | | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | | | |   
+[info]   | | | +-com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.14.3
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   | | | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | | | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | | | |   
+[info]   | | | +-com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.14.3
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by:..
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   | | | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | | | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | | | |   
+[info]   | | | +-com.fasterxml.jackson.module:jackson-module-parameter-names:2.14.3
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   | | | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | | | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | | | |   
+[info]   | | | +-com.fasterxml.jackson.module:jackson-module-scala_2.13:2.14.3 [S]
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by:..
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   | | | | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | | | | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | | | | | 
+[info]   | | | | +-com.thoughtworks.paranamer:paranamer:2.8
+[info]   | | | | 
+[info]   | | | +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   | | |   +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   | | |   +-com.typesafe:config:1.4.5
+[info]   | | |   
+[info]   | | +-org.apache.pekko:pekko-slf4j_2.13:1.0.3 [S]
+[info]   | | | +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   | | | | +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   | | | | +-com.typesafe:config:1.4.5
+[info]   | | | | 
+[info]   | | | +-org.slf4j:slf4j-api:1.7.36 (evicted by: 2.0.17)
+[info]   | | | +-org.slf4j:slf4j-api:2.0.17
+[info]   | | | 
+[info]   | | +-org.playframework.twirl:twirl-api_2.13:2.0.9 [S]
+[info]   | | | +-org.scala-lang.modules:scala-xml_2.13:2.2.0 [S]
+[info]   | | | 
+[info]   | | +-org.playframework:play-build-link:3.0.10
+[info]   | | | +-org.playframework:play-exceptions:3.0.10
+[info]   | | | 
+[info]   | | +-org.playframework:play-configuration_2.13:3.0.10 [S]
+[info]   | | | +-com.typesafe:config:1.4.5
+[info]   | | | +-org.playframework:play-exceptions:3.0.10
+[info]   | | | +-org.slf4j:slf4j-api:2.0.17
+[info]   | | | 
+[info]   | | +-org.playframework:play-json_2.13:3.0.6 [S]
+[info]   | | | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by: 2..
+[info]   | | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   | | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2.15..
+[info]   | | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | | | | 
+[info]   | | | +-com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.14.3
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   | | | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | | | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | | | |   
+[info]   | | | +-com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.14.3
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-annotations:2.14.3 (evicted by:..
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-core:2.14.3 (evicted by: 2.15.2)
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-databind:2.14.3 (evicted by: 2...
+[info]   | | | | +-com.fasterxml.jackson.core:jackson-databind:2.15.2
+[info]   | | | |   +-com.fasterxml.jackson.core:jackson-annotations:2.15.2
+[info]   | | | |   +-com.fasterxml.jackson.core:jackson-core:2.15.2
+[info]   | | | |   
+[info]   | | | +-org.playframework:play-functional_2.13:3.0.6 [S]
+[info]   | | | +-org.scala-lang:scala-reflect:2.13.16 (evicted by: 2.13.18)
+[info]   | | | +-org.scala-lang:scala-reflect:2.13.18 [S]
+[info]   | | | 
+[info]   | | +-org.playframework:play-streams_2.13:3.0.10 [S]
+[info]   | | | +-org.apache.pekko:pekko-stream_2.13:1.0.3 [S]
+[info]   | | | | +-com.typesafe:ssl-config-core_2.13:0.6.1 [S]
+[info]   | | | | | +-com.typesafe:config:1.4.2 (evicted by: 1.4.5)
+[info]   | | | | | +-com.typesafe:config:1.4.5
+[info]   | | | | | 
+[info]   | | | | +-org.apache.pekko:pekko-actor_2.13:1.0.3 [S]
+[info]   | | | | | +-com.typesafe:config:1.4.3 (evicted by: 1.4.5)
+[info]   | | | | | +-com.typesafe:config:1.4.5
+[info]   | | | | | 
+[info]   | | | | +-org.apache.pekko:pekko-protobuf-v3_2.13:1.0.3
+[info]   | | | | +-org.reactivestreams:reactive-streams:1.0.4
+[info]   | | | | 
+[info]   | | | +-org.reactivestreams:reactive-streams:1.0.4
+[info]   | | | 
+[info]   | | +-org.scala-lang.modules:scala-parser-combinators_2.13:1.1.2 [S]
+[info]   | | +-org.slf4j:jcl-over-slf4j:2.0.17
+[info]   | | | +-org.slf4j:slf4j-api:2.0.17
+[info]   | | | 
+[info]   | | +-org.slf4j:jul-to-slf4j:2.0.17
+[info]   | | | +-org.slf4j:slf4j-api:2.0.17
+[info]   | | | 
+[info]   | | +-org.slf4j:slf4j-api:2.0.17
+[info]   | | 
+[info]   | +-org.playframework:play_2.13:3.0.7 (evicted by: 3.0.10)
+[info]   | 
+[info]   +-org.postgresql:postgresql:42.7.1
+[info]     +-org.checkerframework:checker-qual:3.41.0
+[info]     
+[success] Total time: 0 s, completed Apr 17, 2026, 1:07:40 PM

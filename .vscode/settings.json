@@ -2,5 +2,6 @@
   "files.watcherExclude": {
     "**/target": true
   },
-  "chat.disableAIFeatures": true
+  "chat.disableAIFeatures": false
+  
 }
