@@ -2183,3 +2183,838 @@ WARNING: Unmatched cancel notification for request id 2256
 2026.04.16 23:06:58 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala
 2026.04.16 23:06:58 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
 2026.04.16 23:06:58 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:02 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:12 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:12 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:12 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:12 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:12 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:12 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:12 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:13 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:13 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:13 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:13 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:13 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:13 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:14 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:13 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:13 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:14 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:14 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:14 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:14 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:14 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:15 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:14 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:16 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:16 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:16 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:17 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala
+2026.04.16 23:08:17 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Apr 16, 2026 11:08:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 16, 2026 11:08:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 16, 2026 11:08:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 16, 2026 11:08:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 16, 2026 11:08:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 16, 2026 11:08:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.04.16 23:08:27 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:27 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala
+2026.04.16 23:08:27 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:27 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:27 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:28 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:29 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:29 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:29 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:29 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:29 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:29 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:29 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:29 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:29 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:29 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:29 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:30 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:30 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:30 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Apr 16, 2026 11:08:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2379
+2026.04.16 23:08:30 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:30 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:30 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:30 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:30 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:31 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:31 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:31 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:31 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:31 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:31 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:31 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:31 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:32 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:31 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:31 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:31 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:32 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:32 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:32 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:32 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:32 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:32 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:32 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:32 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:32 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:32 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:32 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:32 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:33 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:33 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:34 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:34 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala
+2026.04.16 23:08:34 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Apr 16, 2026 11:08:41 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.04.16 23:08:41 INFO  Shutting down server
+2026.04.16 23:08:41 INFO  Memory monitor stopped
+2026.04.16 23:08:41 INFO  shutting down Metals
+2026.04.16 23:08:41 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:214)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2026.04.16 23:08:41 INFO  Exiting server
+2026.04.16 23:08:49 INFO  Started: Metals version 1.6.7 in folders '/home/v-guhan-techy/projects/trnasaction_engine' for client Visual Studio Code 1.115.0.
+2026.04.16 23:08:49 INFO  Memory monitor started
+2026.04.16 23:08:50 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+Apr 16, 2026 11:08:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.04.16 23:08:55 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:56 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala
+Apr 16, 2026 11:08:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.04.16 23:08:55 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Apr 16, 2026 11:08:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+2026.04.16 23:08:55 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:56 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:56 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:56 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:56 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:56 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:56 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:56 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:56 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:57 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:57 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:57 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:57 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:57 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:57 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:58 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:58 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:58 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:58 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:58 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:58 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:58 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:58 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:58 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:58 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:59 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:59 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:59 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:59 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:59 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:00 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:59 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:59 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:59 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:59 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:59 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:59 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:08:59 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:00 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:00 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:00 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:00 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:01 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:00 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:02 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala
+2026.04.16 23:09:02 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:02 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:06 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:06 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:06 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:06 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:07 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala
+2026.04.16 23:09:07 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:07 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:11 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:11 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:11 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:11 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:11 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:11 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:11 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:11 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:11 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:11 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:11 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:12 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:12 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:12 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:12 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:12 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:13 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala
+2026.04.16 23:09:13 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:13 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:13 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:13 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:14 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:14 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:14 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:15 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:14 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:14 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:14 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:14 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:15 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:14 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:14 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:15 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:16 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:16 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:16 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:16 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:17 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:16 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:17 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:17 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:17 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:17 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:17 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:17 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:17 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:18 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala
+2026.04.16 23:09:18 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:18 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:19 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:19 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:19 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:19 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:19 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:19 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:19 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:19 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:19 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:19 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:20 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:19 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:21 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala
+2026.04.16 23:09:21 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:21 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:09:21 INFO  Created report: Optional[file:///home/v-guhan-techy/projects/trnasaction_engine/file:/home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala]
+2026.04.16 23:09:21 INFO  expected identifier; obtained eof (full report at: "/home/v-guhan-techy/projects/trnasaction_engine/.metals/.reports/metals/2026-04-16/r_scala-toplevel-mtags_23-09-21-252.md")
+2026.04.16 23:10:20 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Apr 16, 2026 11:12:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.04.16 23:13:01 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:01 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala
+Apr 16, 2026 11:13:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 184
+2026.04.16 23:13:01 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:03 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:03 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:03 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:03 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:03 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:03 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:04 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:03 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:04 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Apr 16, 2026 11:13:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 208
+2026.04.16 23:13:04 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:04 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:04 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:04 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:05 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:05 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:06 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:06 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala
+2026.04.16 23:13:06 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:07 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:07 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:07 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:08 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:07 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:07 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:07 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:07 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:07 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:08 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:07 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:08 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:08 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:08 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:08 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:08 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:09 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:08 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:10 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:10 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:09 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:10 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:10 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:10 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:10 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:10 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:10 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:10 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:10 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:11 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:11 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:11 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:11 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:11 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:11 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:11 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:11 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:11 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:11 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:12 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:12 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:12 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:12 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:12 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:12 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:12 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:12 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:12 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:13 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:12 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:12 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:13 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:13 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:13 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:13 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:13 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:13 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:13 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:13 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:13 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:13 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:13 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:13 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:13 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:14 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:14 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:14 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:15 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:15 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala
+2026.04.16 23:13:14 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:14 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:14 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:15 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:15 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:15 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:15 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:15 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:15 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:15 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:16 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:16 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:22 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:22 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:22 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:23 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala
+2026.04.16 23:13:23 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:47 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:47 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala
+2026.04.16 23:13:48 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:13:50 INFO  Shutting down server
+2026.04.16 23:13:50 INFO  Memory monitor stopped
+2026.04.16 23:13:50 INFO  shutting down Metals
+2026.04.16 23:13:50 INFO  Exiting server
+2026.04.16 23:13:50 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:214)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2026.04.16 23:13:59 INFO  Started: Metals version 1.6.7 in folders '/home/v-guhan-techy/projects/trnasaction_engine' for client Visual Studio Code 1.115.0.
+2026.04.16 23:13:59 INFO  Memory monitor started
+2026.04.16 23:13:59 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.16 23:14:00 INFO  Shutting down server
+2026.04.16 23:14:00 INFO  Memory monitor stopped
+2026.04.16 23:14:00 INFO  shutting down Metals
+2026.04.16 23:14:00 INFO  Exiting server
+2026.04.16 23:14:15 INFO  Started: Metals version 1.6.7 in folders '/home/v-guhan-techy/projects/trnasaction_engine' for client Visual Studio Code 1.116.0.
+2026.04.16 23:14:15 INFO  Memory monitor started
+2026.04.16 23:14:18 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.16 23:14:18 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Apr 16, 2026 11:14:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2026.04.16 23:14:19 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:20 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:20 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:20 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:20 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:20 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:20 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:22 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:22 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala
+2026.04.16 23:14:22 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:22 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:22 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:22 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:22 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:23 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:23 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:23 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:23 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:23 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:23 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:23 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:24 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:24 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:24 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:24 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:24 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:24 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:24 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:25 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:24 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:25 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:25 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:25 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:25 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:25 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:26 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:26 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:27 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:26 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:26 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:27 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:28 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:27 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:28 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:28 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:28 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:28 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:29 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:28 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:30 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:30 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala
+2026.04.16 23:14:30 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:30 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:30 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:30 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:30 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:30 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:30 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:30 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:30 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:31 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:31 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:31 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:31 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:31 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:31 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:31 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:31 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:31 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:31 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:31 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:32 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:32 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:32 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:32 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:32 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:32 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:32 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:32 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:32 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:33 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:32 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:33 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:33 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:33 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:33 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:34 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:35 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:35 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:35 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:35 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:35 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:35 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:35 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:35 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:35 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:35 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:36 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:36 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:35 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:36 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:36 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:36 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:36 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:36 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:36 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:37 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:37 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:37 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:37 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:37 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:37 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:37 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:37 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:38 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:38 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:38 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:38 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:38 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:39 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:38 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:39 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:40 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:40 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:40 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:40 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:40 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:40 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:40 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:40 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:40 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:41 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:41 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:41 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:41 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:41 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:41 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:41 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:42 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:41 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:41 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:42 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:42 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:42 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:42 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:42 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:42 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:42 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:43 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:43 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:43 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:43 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:43 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:43 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:43 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:43 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:43 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:43 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:44 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:44 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:44 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:44 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:44 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:44 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:44 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:45 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:45 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:45 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:45 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:45 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:46 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:45 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:45 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:46 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:46 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:46 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:46 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:47 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:46 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:47 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:48 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:48 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:48 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:48 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:48 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:48 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:48 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:48 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:48 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:49 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:49 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:49 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala
+2026.04.16 23:14:49 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:49 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:49 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:50 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:50 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:50 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:50 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:50 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:50 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:50 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:50 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:51 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:50 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:50 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:52 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:52 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala
+2026.04.16 23:14:52 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:53 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:53 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:53 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:53 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:53 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:53 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:53 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:54 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:55 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:55 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:55 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:55 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:55 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:56 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:56 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:56 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:56 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:56 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:56 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:56 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:56 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:56 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:56 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:57 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:56 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:57 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:57 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:57 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:57 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:57 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:57 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:58 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:14:58 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala
+2026.04.16 23:14:58 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:16:11 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:16:11 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala
+Apr 16, 2026 11:16:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 427
+2026.04.16 23:16:11 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:16:13 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:16:13 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:16:13 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:16:13 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:16:13 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:16:13 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:16:13 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:16:13 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:16:14 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:16:14 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Apr 16, 2026 11:16:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 448
+2026.04.16 23:16:14 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:16:14 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:16:14 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:16:14 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:16:14 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:16:14 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:16:14 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:16:14 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:16:14 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:16:14 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:16:15 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:16:14 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:16:16 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:16:16 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala
+2026.04.16 23:16:16 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:16:53 INFO  Shutting down server
+2026.04.16 23:16:53 INFO  Memory monitor stopped
+2026.04.16 23:16:53 INFO  shutting down Metals
+2026.04.16 23:16:53 INFO  Exiting server
+2026.04.16 23:16:53 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:214)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2026.04.16 23:17:02 INFO  Started: Metals version 1.6.7 in folders '/home/v-guhan-techy/projects/trnasaction_engine' for client Visual Studio Code 1.116.0.
+2026.04.16 23:17:02 INFO  Memory monitor started
+2026.04.16 23:17:02 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+Apr 16, 2026 11:17:09 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 16, 2026 11:17:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 16, 2026 11:17:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 16, 2026 11:17:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 16, 2026 11:17:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 16, 2026 11:17:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 16, 2026 11:17:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.04.16 23:19:48 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/controllers/HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:19:49 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/app/controllers/HomeController.scala
+Apr 16, 2026 11:19:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+2026.04.16 23:19:48 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/controllers/HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:19:50 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/controllers/HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:19:50 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/controllers/HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:19:55 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/controllers/HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:19:55 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/app/controllers/HomeController.scala
+2026.04.16 23:19:55 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/controllers/HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:19:55 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/controllers/HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:19:55 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/controllers/HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:20:38 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:20:38 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Apr 16, 2026 11:20:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25
+2026.04.16 23:21:07 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:21:07 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:21:07 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:21:08 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:21:08 WARN  Could not find semantic tokens for: file:///home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala
+2026.04.16 23:21:09 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala
+2026.04.16 23:21:09 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:21:09 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:21:09 WARN  Could not find semantic tokens for: file:///home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala
+2026.04.16 23:21:09 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:22:00 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:22:00 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/build.sbt
+2026.04.16 23:22:00 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:22:00 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:22:00 WARN  Could not find semantic tokens for: file:///home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala
+2026.04.16 23:22:00 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:22:00 WARN  Could not find semantic tokens for: file:///home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala
+2026.04.16 23:22:45 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/views/index.scala.html. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:22:45 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/controllers/HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:25:16 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:25:42 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:25:42 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:27:21 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:27:21 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:27:21 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/build.sbt
+2026.04.16 23:27:21 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:27:21 WARN  Could not find semantic tokens for: file:///home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala
+2026.04.16 23:27:21 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:27:21 WARN  Could not find semantic tokens for: file:///home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala
+2026.04.16 23:27:50 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:27:50 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/build.sbt
+2026.04.16 23:27:50 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:27:50 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:27:50 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:27:56 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:27:56 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:28:01 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:28:01 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala
+2026.04.16 23:28:01 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:28:01 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:28:07 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:28:07 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala
+2026.04.16 23:28:08 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:28:30 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:28:30 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/build.sbt
+2026.04.16 23:28:30 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:28:30 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:28:31 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:29:09 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:29:09 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/build.sbt
+2026.04.16 23:29:09 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:29:09 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:29:09 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:32:00 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/models/User.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:32:35 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:32:35 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/build.sbt
+2026.04.16 23:32:35 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:32:35 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:32:35 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:33:38 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:33:39 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:33:39 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:33:43 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:33:44 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:34:15 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:34:15 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:34:15 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:34:15 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:34:15 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:34:15 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:34:15 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:34:17 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:34:17 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:34:17 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:34:18 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:34:18 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/build.sbt
+2026.04.16 23:34:18 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:34:18 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:34:34 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:34:34 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:34:36 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:34:36 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:34:36 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:34:36 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:34:36 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:34:37 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:34:37 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:34:37 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:34:37 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:34:38 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:34:37 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:34:38 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:34:39 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/build.sbt
+2026.04.16 23:34:39 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:34:39 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:34:41 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:34:41 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:34:41 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.16 23:35:31 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.17 13:05:04 INFO  Started: Metals version 1.6.7 in folders '/home/v-guhan-techy/projects/trnasaction_engine' for client Visual Studio Code 1.116.0.
+2026.04.17 13:05:04 INFO  Memory monitor started
+2026.04.17 13:05:04 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.17 13:05:05 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.17 13:05:22 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.17 13:05:22 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.17 13:05:22 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.17 13:05:22 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.17 13:05:23 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.17 13:05:23 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.17 13:05:23 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.17 13:05:23 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.17 13:05:23 INFO  empty definition using pc, found symbol in pc:  (full report at: "/home/v-guhan-techy/projects/trnasaction_engine/.metals/.reports/metals-full/2026-04-16/r_empty-definition_21-31-19-629.md")
+2026.04.17 13:05:24 WARN  no build target for: /home/v-guhan-techy/projects/trnasaction_engine/build.sbt
+2026.04.17 13:05:24 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.17 13:05:24 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
