@@ -5,7 +5,7 @@ version := "1.0-SNAPSHOT"
 
 lazy val root = (project in file(".")).enablePlugins(PlayScala)
 
-scalaVersion := "2.13.12"
+scalaVersion := "2.13.18"
 
 // Keep all Jackson modules on the same minor version.
 // Play / Pekko can otherwise end up with jackson-databind 2.15.x but jackson-module-scala 2.14.x,
