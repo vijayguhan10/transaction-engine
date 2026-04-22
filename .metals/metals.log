@@ -5214,3 +5214,31 @@ WARNING: Unmatched cancel notification for request id 4851
 2026.04.22 18:52:59 INFO  time: compiled root in 56ms
 2026.04.22 18:53:07 INFO  compiling root (1 scala source)
 2026.04.22 18:53:07 INFO  time: compiled root in 0.24s
+2026.04.22 18:53:36 INFO  compiling root (1 scala source)
+2026.04.22 18:53:36 INFO  time: compiled root in 55ms
+2026.04.22 18:53:40 INFO  compiling root (1 scala source)
+2026.04.22 18:53:40 INFO  time: compiled root in 57ms
+2026.04.22 18:53:45 INFO  compiling root (1 scala source)
+2026.04.22 18:53:45 INFO  time: compiled root in 60ms
+2026.04.22 18:53:48 INFO  compiling root (1 scala source)
+2026.04.22 18:53:48 INFO  time: compiled root in 75ms
+2026.04.22 18:53:50 INFO  compiling root (1 scala source)
+2026.04.22 18:53:50 INFO  time: compiled root in 49ms
+2026.04.22 18:53:54 INFO  compiling root (1 scala source)
+2026.04.22 18:53:54 INFO  time: compiled root in 66ms
+2026.04.22 18:54:00 INFO  compiling root (1 scala source)
+2026.04.22 18:54:00 INFO  time: compiled root in 52ms
+2026.04.22 18:54:04 INFO  compiling root (1 scala source)
+2026.04.22 18:54:04 INFO  time: compiled root in 65ms
+2026.04.22 18:54:07 INFO  compiling root (1 scala source)
+2026.04.22 18:54:07 INFO  time: compiled root in 60ms
+2026.04.22 18:54:09 INFO  compiling root (1 scala source)
+2026.04.22 18:54:09 INFO  time: compiled root in 64ms
+2026.04.22 18:54:13 INFO  compiling root (1 scala source)
+2026.04.22 18:54:13 INFO  time: compiled root in 59ms
+2026.04.22 18:54:20 INFO  Created report: Optional[file:///home/v-guhan-techy/projects/trnasaction_engine/file:/home/v-guhan-techy/projects/trnasaction_engine/app/services/UserServices.scala]
+2026.04.22 18:54:20 INFO  expected identifier; obtained rbrace (full report at: "/home/v-guhan-techy/projects/trnasaction_engine/.metals/.reports/metals/2026-04-22/r_scala-toplevel-mtags_18-54-20-182.md")
+2026.04.22 18:54:20 INFO  compiling root (1 scala source)
+2026.04.22 18:54:20 INFO  time: compiled root in 51ms
+2026.04.22 18:54:28 INFO  compiling root (1 scala source)
+2026.04.22 18:54:28 INFO  time: compiled root in 0.41s
