@@ -24,7 +24,7 @@ class UserController @Inject() ( // Constructor injection (Play injects dependen
     cc: ControllerComponents, // Required by Play to build controller
     userService: UserService // Service layer dependency
 )(implicit ec: ExecutionContext) // Thread pool for async operations
-    extends AbstractController(cc) { // Gives helper methods like Ok, Action, etc.
+    extends AbstractController(cc) { // Gives helper methods like Ok,NotFound , Created, Action, etc.
 
   // ---------------- CREATE USER ----------------
   def createUser: Action[JsValue] = Action.async(parse.json) { request =>
