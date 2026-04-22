@@ -5407,3 +5407,7 @@ WARNING: Unmatched cancel notification for request id 6288
 2026.04.22 21:38:02 INFO  empty definition using pc, found symbol in pc:  (full report at: "/home/v-guhan-techy/projects/trnasaction_engine/.metals/.reports/metals-full/2026-04-22/r_empty-definition_(root)_21-38-00-182.md")
 2026.04.22 21:38:04 INFO  compiling root (1 scala source)
 2026.04.22 21:38:04 INFO  time: compiled root in 0.61s
+2026.04.22 21:53:25 INFO  compiling root (1 scala source)
+2026.04.22 21:53:27 INFO  time: compiled root in 1.79s
+2026.04.22 21:53:27 INFO  compiling root (1 scala source)
+2026.04.22 21:53:27 INFO  time: compiled root in 0.71s
