@@ -5178,3 +5178,5 @@ WARNING: Unmatched cancel notification for request id 4554
                                   ^
 2026.04.22 11:36:34 INFO  compiling root (1 scala source)
 2026.04.22 11:36:35 INFO  time: compiled root in 1.07s
+2026.04.22 11:38:34 INFO  compiling root (1 scala source)
+2026.04.22 11:38:34 INFO  time: compiled root in 0.65s
