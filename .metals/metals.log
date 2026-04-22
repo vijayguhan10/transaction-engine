@@ -5068,3 +5068,113 @@ WARNING: Unmatched cancel notification for request id 2761
 2026.04.22 11:21:53 INFO  time: compiled root in 43ms
 2026.04.22 11:21:56 INFO  compiling root (1 scala source)
 2026.04.22 11:21:56 INFO  time: compiled root in 45ms
+2026.04.22 11:23:15 INFO  compiling root (1 scala source)
+2026.04.22 11:23:15 INFO  time: compiled root in 64ms
+2026.04.22 11:23:18 INFO  compiling root (1 scala source)
+2026.04.22 11:23:18 INFO  time: compiled root in 76ms
+2026.04.22 11:23:23 INFO  compiling root (1 scala source)
+2026.04.22 11:23:23 INFO  time: compiled root in 47ms
+2026.04.22 11:23:27 INFO  compiling root (1 scala source)
+2026.04.22 11:23:27 INFO  time: compiled root in 48ms
+2026.04.22 11:23:28 INFO  compiling root (1 scala source)
+2026.04.22 11:23:28 INFO  time: compiled root in 45ms
+2026.04.22 11:23:30 INFO  compiling root (1 scala source)
+2026.04.22 11:23:30 INFO  time: compiled root in 46ms
+2026.04.22 11:23:31 INFO  compiling root (1 scala source)
+2026.04.22 11:23:31 INFO  time: compiled root in 78ms
+2026.04.22 11:23:33 INFO  compiling root (1 scala source)
+2026.04.22 11:23:33 INFO  time: compiled root in 57ms
+2026.04.22 11:23:35 INFO  compiling root (1 scala source)
+2026.04.22 11:23:35 INFO  time: compiled root in 45ms
+2026.04.22 11:23:38 INFO  compiling root (1 scala source)
+2026.04.22 11:23:38 INFO  time: compiled root in 41ms
+2026.04.22 11:23:40 INFO  compiling root (1 scala source)
+2026.04.22 11:23:40 INFO  time: compiled root in 49ms
+2026.04.22 11:23:44 INFO  compiling root (1 scala source)
+2026.04.22 11:23:44 INFO  time: compiled root in 46ms
+2026.04.22 11:23:48 INFO  compiling root (1 scala source)
+2026.04.22 11:23:48 INFO  time: compiled root in 42ms
+2026.04.22 11:23:50 INFO  compiling root (1 scala source)
+2026.04.22 11:23:50 INFO  time: compiled root in 42ms
+2026.04.22 11:24:03 INFO  compiling root (1 scala source)
+2026.04.22 11:24:03 INFO  time: compiled root in 44ms
+Apr 22, 2026 11:24:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4082
+2026.04.22 11:24:07 INFO  compiling root (1 scala source)
+2026.04.22 11:24:07 INFO  time: compiled root in 45ms
+2026.04.22 11:24:09 INFO  compiling root (1 scala source)
+2026.04.22 11:24:09 INFO  time: compiled root in 49ms
+2026.04.22 11:24:12 INFO  compiling root (1 scala source)
+2026.04.22 11:24:12 INFO  time: compiled root in 47ms
+Apr 22, 2026 11:24:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4170
+Apr 22, 2026 11:24:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4171
+2026.04.22 11:26:31 INFO  compiling root (1 scala source)
+2026.04.22 11:26:31 INFO  time: compiled root in 59ms
+2026.04.22 11:26:33 INFO  compiling root (1 scala source)
+2026.04.22 11:26:33 INFO  time: compiled root in 50ms
+2026.04.22 11:26:36 INFO  compiling root (1 scala source)
+2026.04.22 11:26:36 INFO  time: compiled root in 58ms
+2026.04.22 11:26:39 INFO  compiling root (1 scala source)
+2026.04.22 11:26:39 INFO  time: compiled root in 47ms
+2026.04.22 11:26:40 INFO  compiling root (1 scala source)
+2026.04.22 11:26:40 INFO  time: compiled root in 48ms
+2026.04.22 11:26:44 INFO  compiling root (1 scala source)
+2026.04.22 11:26:44 INFO  time: compiled root in 46ms
+2026.04.22 11:26:46 INFO  compiling root (1 scala source)
+2026.04.22 11:26:46 INFO  time: compiled root in 52ms
+2026.04.22 11:26:47 INFO  compiling root (1 scala source)
+2026.04.22 11:26:47 INFO  time: compiled root in 46ms
+2026.04.22 11:26:53 INFO  compiling root (1 scala source)
+2026.04.22 11:26:53 INFO  time: compiled root in 46ms
+2026.04.22 11:26:57 INFO  compiling root (1 scala source)
+2026.04.22 11:26:57 INFO  time: compiled root in 43ms
+2026.04.22 11:27:01 INFO  compiling root (1 scala source)
+2026.04.22 11:27:01 INFO  time: compiled root in 53ms
+2026.04.22 11:27:04 INFO  Created report: Optional[file:///home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala]
+2026.04.22 11:27:04 INFO  java.lang.IndexOutOfBoundsException: -1 is out of bounds (min 0, max 2) (full report at: "/home/v-guhan-techy/projects/trnasaction_engine/.metals/.reports/metals-full/2026-04-22/r_compiler-error_(root)_11-27-04-345.md")
+2026.04.22 11:27:04 WARN  Could not find semantic tokens for: file:///home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala
+Apr 22, 2026 11:27:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4554
+2026.04.22 11:27:06 INFO  compiling root (1 scala source)
+2026.04.22 11:27:06 INFO  time: compiled root in 46ms
+2026.04.22 11:27:11 INFO  compiling root (1 scala source)
+2026.04.22 11:27:11 INFO  time: compiled root in 59ms
+2026.04.22 11:27:12 ERROR scalafmt: [3.10.7] /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala:13: error: [dialect scala213] `=` expected but `identifier` found
+    def*=(id.?,name , age,address)<>(User.tupled,User,unapply)
+                                  ^
+2026.04.22 11:27:12 ERROR scalafmt: [3.10.7] /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala:13: error: [dialect scala213] `=` expected but `identifier` found
+    def*=(id.?,name , age,address)<>(User.tupled,User,unapply)
+                                  ^
+2026.04.22 11:27:12 ERROR scalafmt: [3.10.7] /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala:13: error: [dialect scala213] `=` expected but `identifier` found
+    def*=(id.?,name , age,address)<>(User.tupled,User,unapply)
+                                  ^
+2026.04.22 11:27:12 ERROR scalafmt: [3.10.7] /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala:13: error: [dialect scala213] `=` expected but `identifier` found
+    def*=(id.?,name , age,address)<>(User.tupled,User,unapply)
+                                  ^
+2026.04.22 11:27:13 ERROR scalafmt: [3.10.7] /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala:13: error: [dialect scala213] `=` expected but `identifier` found
+    def*=(id.?,name , age,address)<>(User.tupled,User,unapply)
+                                  ^
+2026.04.22 11:27:13 ERROR scalafmt: [3.10.7] /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala:13: error: [dialect scala213] `=` expected but `identifier` found
+    def*=(id.?,name , age,address)<>(User.tupled,User,unapply)
+                                  ^
+2026.04.22 11:27:13 ERROR scalafmt: [3.10.7] /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala:13: error: [dialect scala213] `=` expected but `identifier` found
+    def*=(id.?,name , age,address)<>(User.tupled,User,unapply)
+                                  ^
+2026.04.22 11:27:35 ERROR scalafmt: [3.10.7] /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala:13: error: [dialect scala213] `=` expected but `identifier` found
+    def*=(id.?,name , age,address)<>(User.tupled,User,unapply)
+                                  ^
+2026.04.22 11:27:35 INFO  compiling root (1 scala source)
+2026.04.22 11:27:35 INFO  time: compiled root in 45ms
+2026.04.22 11:27:35 ERROR scalafmt: [3.10.7] /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala:13: error: [dialect scala213] `=` expected but `identifier` found
+    def*=(id.?,name , age,address)<>(User.tupled,User,unapply)
+                                  ^
+2026.04.22 11:27:35 ERROR scalafmt: [3.10.7] /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala:13: error: [dialect scala213] `=` expected but `identifier` found
+    def*=(id.?,name , age,address)<>(User.tupled,User,unapply)
+                                  ^
+2026.04.22 11:36:33 ERROR scalafmt: [3.10.7] /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala:13: error: [dialect scala213] `=` expected but `identifier` found
+    def*=(id.?,name , age,address)<>(User.tupled,User,unapply)
+                                  ^
+2026.04.22 11:36:34 INFO  compiling root (1 scala source)
+2026.04.22 11:36:35 INFO  time: compiled root in 1.07s
