@@ -93,7 +93,7 @@ extends HasDatabaseConfigProvider[JdbcProfile] {
    *   This is DB-specific (Postgres/MySQL/etc)
    */
   import profile.api._
-
+//The profile is imported here because of the extended class at the repo level because th edependencies are based on the profile commin g from the exdtended HasDatabaseConfigProvider class which is parameterized by the JdbcProfile. So the profile is available in the repo class and we can import its API to get access to the Slick DSL for building queries and defining table schemas.
   // ============================================================
   // TABLE DEFINITION (SCHEMA MAPPING)
   // ============================================================
