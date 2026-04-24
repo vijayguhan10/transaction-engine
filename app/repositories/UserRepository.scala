@@ -1,9 +1,8 @@
 package repositories // package grouping (logical folder)
 
 import javax.inject._ // brings @Inject, @Singleton (dependency injection)
-
-import play.api.db.slick.{DatabaseConfigProvider, HasDatabaseConfigProvider}
-import slick.jdbc.JdbcProfile
+import slick.jdbc.PostgresProfile.api._ 
+// imports ALL Slick DSL tools: Table, column, Database, Query, operators (===, +=, etc.)
 
 import models.User // your case class (domain model)
 
@@ -13,13 +12,12 @@ import scala.concurrent.{ExecutionContext, Future}
 
 
 @Singleton // only ONE instance of this repository will exist (managed by Play/Guice)
-class UserRepository @Inject() (
-    protected val dbConfigProvider: DatabaseConfigProvider
-)(implicit ec: ExecutionContext)
-    extends HasDatabaseConfigProvider[JdbcProfile] {
+class UserRepository @Inject()(db: Database)(implicit ec: ExecutionContext) {
+  // @Inject() → Play will automatically provide dependencies
+  // db: Database → connection handler (uses connection pool internally)
+  // implicit ec → thread pool for async execution (Future)
 
-  import profile.api._
-
+  //Purpose of the profile api import is 
   // -----------------------------
   // TABLE DEFINITION (schema mapping)
   // -----------------------------
@@ -43,7 +41,7 @@ class UserRepository @Inject() (
     def address = column[String]("address")
     // Rep[String] → represents SQL column "address"
 
-    def * = (id.?, name, age, address) <> ((User.apply _).tupled, User.unapply)
+    def * = (id.?, name, age, address) <> (User.tupled, User.unapply)
     // * → default projection (how a row maps to User)
 
     // id.? → converts Rep[Long] → Rep[Option[Long]]
