@@ -5612,3 +5612,29 @@ Exception in thread "pool-5-thread-1" java.lang.InterruptedException
 	at java.base/java.lang.Thread.run(Thread.java:1583)
 2026.04.24 22:42:21 INFO  compiling root (1 scala source)
 2026.04.24 22:42:24 INFO  time: compiled root in 2.31s
+Apr 24, 2026 11:07:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1712
+Apr 24, 2026 11:07:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1717
+Apr 24, 2026 11:07:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1722
+Apr 24, 2026 11:07:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1734
+Apr 24, 2026 11:07:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1768
+2026.04.24 23:07:20 INFO  compiling root (1 scala source)
+2026.04.24 23:07:22 INFO  time: compiled root in 2.06s
+2026.04.24 23:07:28 INFO  compiling root (1 scala source)
+2026.04.24 23:07:28 INFO  time: compiled root in 0.78s
+2026.04.24 23:07:32 INFO  compiling root (1 scala source)
+2026.04.24 23:07:32 INFO  time: compiled root in 0.64s
+Apr 24, 2026 11:07:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1978
+Apr 24, 2026 11:07:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1980
+Apr 24, 2026 11:07:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1996
+2026.04.24 23:07:43 INFO  compiling root (1 scala source)
+2026.04.24 23:07:43 INFO  time: compiled root in 0.59s
+2026.04.24 23:07:44 INFO  compiling root (1 scala source)
+2026.04.24 23:07:44 INFO  time: compiled root in 0.23s
