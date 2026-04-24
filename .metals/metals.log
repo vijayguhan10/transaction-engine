@@ -5599,3 +5599,16 @@ WARNING: Unmatched cancel notification for request id 68
 2026.04.24 19:05:54 INFO  time: compiled root in 0.14s
 2026.04.24 19:06:23 INFO  compiling root (1 scala source)
 2026.04.24 19:06:23 INFO  time: compiled root in 0.65s
+Apr 24, 2026 10:19:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 762
+Apr 24, 2026 10:19:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 763
+Exception in thread "pool-5-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:207)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026.04.24 22:42:21 INFO  compiling root (1 scala source)
+2026.04.24 22:42:24 INFO  time: compiled root in 2.31s
