@@ -5722,3 +5722,72 @@ WARNING: Unmatched cancel notification for request id 20
 2026.04.27 18:47:06 INFO  time: Imported build in 0.22s
 2026.04.27 18:47:09 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/lib/src.zip. Java symbols will not be available.
 2026.04.27 18:47:11 INFO  time: indexed workspace in 4.63s
+Apr 27, 2026 6:54:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 171
+Apr 27, 2026 6:54:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 180
+Apr 27, 2026 6:54:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 204
+Apr 27, 2026 6:54:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 219
+Apr 27, 2026 6:54:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 220
+Apr 27, 2026 6:54:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.04.27 18:54:46 INFO  Shutting down server
+2026.04.27 18:54:46 INFO  Memory monitor stopped
+2026.04.27 18:54:46 INFO  shutting down Metals
+2026.04.27 18:54:46 INFO  Shut down connection with build server.
+2026.04.27 18:54:46 INFO  Exiting server
+2026.04.27 18:54:51 INFO  Started: Metals version 1.6.7 in folders '/home/v-guhan-techy/projects/trnasaction_engine' for client Visual Studio Code 1.117.0.
+2026.04.27 18:54:51 INFO  Memory monitor started
+2026.04.27 18:54:51 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.27 18:54:52 INFO  Attempting to connect to the build server...
+2026.04.27 18:54:52 INFO  Found a Bloop server running
+2026.04.27 18:54:52 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/v-guhan-techy/projects/trnasaction_engine/.metals/bsp.trace.json or /home/v-guhan-techy/.cache/metals/bsp.trace.json
+2026.04.27 18:54:52 INFO  time: Connected to build server in 0.23s
+2026.04.27 18:54:52 INFO  Connected to Build server: Bloop v2.0.19
+2026.04.27 18:54:52 INFO  time: Imported build in 0.11s
+Apr 27, 2026 6:54:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Apr 27, 2026 6:54:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+Apr 27, 2026 6:54:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+Apr 27, 2026 6:54:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+Apr 27, 2026 6:54:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+Apr 27, 2026 6:54:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+Apr 27, 2026 6:54:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17
+Apr 27, 2026 6:54:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24
+Apr 27, 2026 6:54:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26
+Apr 27, 2026 6:54:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27
+2026.04.27 18:54:55 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2026.04.27 18:54:56 INFO  time: indexed workspace in 4.08s
+Apr 27, 2026 6:54:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 46
+something's wrong: no file:///home/v-guhan-techy/projects/trnasaction_engine/app/models/Account.sc in Option[<error>]RangePosition(file:///home/v-guhan-techy/projects/trnasaction_engine/app/models/Account.sc, 102, 102, 118)
+something's wrong: no file:///home/v-guhan-techy/projects/trnasaction_engine/app/models/Account.sc in Option[<error>]RangePosition(file:///home/v-guhan-techy/projects/trnasaction_engine/app/models/Account.sc, 102, 102, 111)
+something's wrong: no file:///home/v-guhan-techy/projects/trnasaction_engine/app/models/Account.sc in Option[<error>]RangePosition(file:///home/v-guhan-techy/projects/trnasaction_engine/app/models/Account.sc, 102, 102, 112)
+something's wrong: no file:///home/v-guhan-techy/projects/trnasaction_engine/app/models/Account.sc in Option[Long]RangePosition(file:///home/v-guhan-techy/projects/trnasaction_engine/app/models/Account.sc, 102, 102, 114)
+Apr 27, 2026 6:56:59 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2026.04.27 18:56:59 INFO  Created report: Optional[file:///home/v-guhan-techy/projects/trnasaction_engine/app/models/Account.sc]
+2026.04.27 18:56:59 INFO  scala.MatchError: implicit class <error> extends  (of class scala.reflect.internal.Trees$ClassDef) (full report at: "/home/v-guhan-techy/projects/trnasaction_engine/.metals/.reports/metals-full/2026-04-27/r_compiler-error_(root)_18-56-59-347.md")
+2026.04.27 18:56:59 WARN  Could not find semantic tokens for: file:///home/v-guhan-techy/projects/trnasaction_engine/app/models/Account.sc
+Apr 27, 2026 6:57:00 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2026.04.27 18:56:59 INFO  Created report: Optional[file:///home/v-guhan-techy/projects/trnasaction_engine/app/models/Account.sc]
+2026.04.27 18:56:59 INFO  scala.MatchError: implicit class <error> extends  (of class scala.reflect.internal.Trees$ClassDef) (full report at: "/home/v-guhan-techy/projects/trnasaction_engine/.metals/.reports/metals-full/2026-04-27/r_compiler-error_(root)_18-57-00-212.md")
+Apr 27, 2026 6:57:00 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2026.04.27 18:57:00 INFO  Created report: Optional[file:///home/v-guhan-techy/projects/trnasaction_engine/app/models/Account.sc]
+2026.04.27 18:57:00 INFO  scala.MatchError: implicit class <error> extends  (of class scala.reflect.internal.Trees$ClassDef) (full report at: "/home/v-guhan-techy/projects/trnasaction_engine/.metals/.reports/metals-full/2026-04-27/r_compiler-error_(root)_18-57-00-421.md")
+2026.04.27 18:57:00 WARN  Could not find semantic tokens for: file:///home/v-guhan-techy/projects/trnasaction_engine/app/models/Account.sc
+something's wrong: no file:///home/v-guhan-techy/projects/trnasaction_engine/app/models/Account.sc in play.api.libs.json.OFormat[<error>]RangePosition(file:///home/v-guhan-techy/projects/trnasaction_engine/app/models/Account.sc, 295, 295, 312)
