@@ -5795,3 +5795,13 @@ Apr 27, 2026 7:53:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellat
 WARNING: Unmatched cancel notification for request id 2089
 2026.04.27 19:53:51 INFO  Created report: Optional[file:///home/v-guhan-techy/projects/trnasaction_engine/app/models/Account.sc]
 2026.04.27 19:53:51 INFO  empty definition using pc, found symbol in pc:  (full report at: "/home/v-guhan-techy/projects/trnasaction_engine/.metals/.reports/metals-full/2026-04-27/r_empty-definition_(root)_19-53-51-880.md")
+Apr 27, 2026 8:00:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 27, 2026 8:00:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 27, 2026 8:00:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 27, 2026 8:00:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 27, 2026 8:00:26 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
