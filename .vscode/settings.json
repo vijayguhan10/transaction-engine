@@ -2,7 +2,7 @@
   "files.watcherExclude": {
     "**/target": true
   },
-  "chat.disableAIFeatures": true,
+  "chat.disableAIFeatures": false,
   "emmet.useInlineCompletions": true
   
 }
