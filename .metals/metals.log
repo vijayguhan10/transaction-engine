@@ -5638,3 +5638,87 @@ WARNING: Unmatched cancel notification for request id 1996
 2026.04.24 23:07:43 INFO  time: compiled root in 0.59s
 2026.04.24 23:07:44 INFO  compiling root (1 scala source)
 2026.04.24 23:07:44 INFO  time: compiled root in 0.23s
+2026.04.24 23:08:50 INFO  compiling root (1 scala source)
+2026.04.24 23:08:53 INFO  time: compiled root in 2.41s
+2026.04.24 23:08:53 INFO  compiling root (1 scala source)
+2026.04.24 23:08:53 WARN  Could not load snapshot text for /home/v-guhan-techy/projects/trnasaction_engine/app/repositories/UserRepository.scala
+2026.04.24 23:08:53 INFO  time: compiled root in 0.89s
+2026.04.24 23:47:17 INFO  Shut down connection with build server.
+2026.04.25 10:04:23 INFO  Started: Metals version 1.6.7 in folders '/home/v-guhan-techy/projects/trnasaction_engine' for client Visual Studio Code 1.117.0.
+2026.04.25 10:04:23 INFO  Memory monitor started
+Apr 25, 2026 10:04:24 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 25, 2026 10:04:25 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.04.25 10:04:25 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.25 10:04:25 INFO  Attempting to connect to the build server...
+2026.04.25 10:04:25 INFO  No running Bloop server found, starting one.
+2026.04.25 10:04:25 INFO  Starting compilation server
+2026.04.25 10:04:27 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/v-guhan-techy/projects/trnasaction_engine/.metals/bsp.trace.json or /home/v-guhan-techy/.cache/metals/bsp.trace.json
+2026.04.25 10:04:27 INFO  time: Connected to build server in 2.13s
+2026.04.25 10:04:27 INFO  Connected to Build server: Bloop v2.0.19
+2026.04.25 10:04:27 INFO  time: Imported build in 0.16s
+2026.04.25 10:04:29 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2026.04.25 10:04:30 INFO  time: indexed workspace in 2.5s
+2026.04.26 00:44:05 INFO  Shut down connection with build server.
+2026.04.26 18:37:17 INFO  Started: Metals version 1.6.7 in folders '/home/v-guhan-techy/projects/trnasaction_engine' for client Visual Studio Code 1.117.0.
+2026.04.26 18:37:17 INFO  Memory monitor started
+2026.04.26 18:37:18 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.26 18:37:18 INFO  Attempting to connect to the build server...
+2026.04.26 18:37:18 INFO  No running Bloop server found, starting one.
+2026.04.26 18:37:19 INFO  Starting compilation server
+2026.04.26 18:37:20 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/v-guhan-techy/projects/trnasaction_engine/.metals/bsp.trace.json or /home/v-guhan-techy/.cache/metals/bsp.trace.json
+2026.04.26 18:37:21 INFO  time: Connected to build server in 3.1s
+2026.04.26 18:37:20 INFO  Connected to Build server: Bloop v2.0.19
+2026.04.26 18:37:22 INFO  time: Imported build in 0.23s
+2026.04.26 18:37:22 INFO  Shutting down server
+2026.04.26 18:37:22 INFO  Memory monitor stopped
+2026.04.26 18:37:22 INFO  shutting down Metals
+2026.04.26 18:37:22 INFO  Shut down connection with build server.
+2026.04.26 18:37:22 INFO  Exiting server
+2026.04.27 18:47:00 INFO  Started: Metals version 1.6.7 in folders '/home/v-guhan-techy/projects/trnasaction_engine' for client Visual Studio Code 1.117.0.
+2026.04.27 18:47:00 INFO  Memory monitor started
+2026.04.27 18:47:00 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.27 18:47:01 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/controllers/UserController.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.27 18:47:02 INFO  Attempting to connect to the build server...
+2026.04.27 18:47:02 INFO  No running Bloop server found, starting one.
+2026.04.27 18:47:03 INFO  Starting compilation server
+Apr 27, 2026 6:47:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 27, 2026 6:47:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Apr 27, 2026 6:47:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+2026.04.27 18:47:03 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/controllers/UserController.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.27 18:47:04 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/controllers/UserController.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.27 18:47:04 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/controllers/UserController.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.27 18:47:04 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/controllers/UserController.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Apr 27, 2026 6:47:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+Apr 27, 2026 6:47:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+2026.04.27 18:47:04 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/controllers/UserController.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Apr 27, 2026 6:47:04 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 27, 2026 6:47:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+2026.04.27 18:47:05 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/controllers/UserController.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.27 18:47:05 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/v-guhan-techy/projects/trnasaction_engine/.metals/bsp.trace.json or /home/v-guhan-techy/.cache/metals/bsp.trace.json
+Apr 27, 2026 6:47:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17
+2026.04.27 18:47:05 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/controllers/UserController.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.27 18:47:05 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/controllers/UserController.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.27 18:47:05 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/controllers/UserController.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Apr 27, 2026 6:47:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+Apr 27, 2026 6:47:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+Apr 27, 2026 6:47:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20
+2026.04.27 18:47:05 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/controllers/UserController.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.27 18:47:05 INFO  no build target found for /home/v-guhan-techy/projects/trnasaction_engine/app/controllers/UserController.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.27 18:47:06 INFO  time: Connected to build server in 3.71s
+2026.04.27 18:47:06 INFO  Connected to Build server: Bloop v2.0.19
+2026.04.27 18:47:06 INFO  time: Imported build in 0.22s
+2026.04.27 18:47:09 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2026.04.27 18:47:11 INFO  time: indexed workspace in 4.63s
