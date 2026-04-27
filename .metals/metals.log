@@ -5791,3 +5791,7 @@ INFO: compiler crashed due to an error in the Scala compiler, retrying with new 
 2026.04.27 18:57:00 INFO  scala.MatchError: implicit class <error> extends  (of class scala.reflect.internal.Trees$ClassDef) (full report at: "/home/v-guhan-techy/projects/trnasaction_engine/.metals/.reports/metals-full/2026-04-27/r_compiler-error_(root)_18-57-00-421.md")
 2026.04.27 18:57:00 WARN  Could not find semantic tokens for: file:///home/v-guhan-techy/projects/trnasaction_engine/app/models/Account.sc
 something's wrong: no file:///home/v-guhan-techy/projects/trnasaction_engine/app/models/Account.sc in play.api.libs.json.OFormat[<error>]RangePosition(file:///home/v-guhan-techy/projects/trnasaction_engine/app/models/Account.sc, 295, 295, 312)
+Apr 27, 2026 7:53:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2089
+2026.04.27 19:53:51 INFO  Created report: Optional[file:///home/v-guhan-techy/projects/trnasaction_engine/app/models/Account.sc]
+2026.04.27 19:53:51 INFO  empty definition using pc, found symbol in pc:  (full report at: "/home/v-guhan-techy/projects/trnasaction_engine/.metals/.reports/metals-full/2026-04-27/r_empty-definition_(root)_19-53-51-880.md")
